@@ -1,0 +1,1400 @@
+{
+    "area": "D02",
+    "originX": 224,
+    "originY": 640,
+    "mapData": [
+        {
+            "name": "P_C_001_ComFlower_01_1 (1) 1",
+            "x": 229,
+            "y": 649,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_1 (2) 1",
+            "x": 246,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (2) 1",
+            "x": 229,
+            "y": 662,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (3) 1",
+            "x": 236,
+            "y": 648,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (3) 1",
+            "x": 242,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (4) 1",
+            "x": 244,
+            "y": 663,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (5)",
+            "x": 235,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (6) 1",
+            "x": 227,
+            "y": 664,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (7) 1",
+            "x": 237,
+            "y": 664,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (8) 1",
+            "x": 242,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (9) 1",
+            "x": 241,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (10) 1",
+            "x": 246,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (11) 1",
+            "x": 240,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_2 (3) 1",
+            "x": 245,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_2 (4) 1",
+            "x": 230,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_2 (5) 1",
+            "x": 233,
+            "y": 664,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_2 (6) 1",
+            "x": 247,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_3 (6) 1",
+            "x": 246,
+            "y": 663,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_3 (7) 1",
+            "x": 240,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_3 (8) 1",
+            "x": 247,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (10) 1",
+            "x": 230,
+            "y": 648,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (11) 1",
+            "x": 228,
+            "y": 662,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (12) 1",
+            "x": 244,
+            "y": 659,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (13) 1",
+            "x": 243,
+            "y": 664,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (14) 1",
+            "x": 238,
+            "y": 648,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Fence_01 (1) 1",
+            "x": 235,
+            "y": 653,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Fence_01 (2) 1",
+            "x": 233,
+            "y": 653,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Fence_01 (3) 1",
+            "x": 231,
+            "y": 653,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Fence_01 (4) 1",
+            "x": 229,
+            "y": 653,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Fence_01 4",
+            "x": 237,
+            "y": 653,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Fence_02",
+            "x": 239,
+            "y": 653,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (1)",
+            "x": 245,
+            "y": 664,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (2)",
+            "x": 237,
+            "y": 651,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (3)",
+            "x": 231,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (4)",
+            "x": 232,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (5)",
+            "x": 232,
+            "y": 651,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 3",
+            "x": 246,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (1)",
+            "x": 238,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (2)",
+            "x": 237,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (3)",
+            "x": 236,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (4)",
+            "x": 235,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (5)",
+            "x": 234,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (6)",
+            "x": 233,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (7)",
+            "x": 232,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (8)",
+            "x": 231,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (9)",
+            "x": 230,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (10)",
+            "x": 229,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (11)",
+            "x": 239,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (12)",
+            "x": 238,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (13)",
+            "x": 237,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (14)",
+            "x": 236,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (15)",
+            "x": 235,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (16)",
+            "x": 234,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (17)",
+            "x": 233,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (18)",
+            "x": 232,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (19)",
+            "x": 231,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (20)",
+            "x": 230,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (21)",
+            "x": 229,
+            "y": 655,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (22)",
+            "x": 240,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (23)",
+            "x": 239,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (24)",
+            "x": 238,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (25)",
+            "x": 237,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (26)",
+            "x": 236,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (27)",
+            "x": 235,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (28)",
+            "x": 234,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (29)",
+            "x": 233,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (30)",
+            "x": 232,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (31)",
+            "x": 231,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (32)",
+            "x": 240,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (33)",
+            "x": 239,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (34)",
+            "x": 238,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (35)",
+            "x": 237,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (36)",
+            "x": 236,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (37)",
+            "x": 235,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (38)",
+            "x": 234,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (39)",
+            "x": 233,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (40)",
+            "x": 232,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (41)",
+            "x": 231,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (42)",
+            "x": 240,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (43)",
+            "x": 239,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (44)",
+            "x": 238,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (45)",
+            "x": 237,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (46)",
+            "x": 236,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (47)",
+            "x": 235,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (48)",
+            "x": 234,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (49)",
+            "x": 233,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (50)",
+            "x": 232,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (51)",
+            "x": 231,
+            "y": 658,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (52)",
+            "x": 240,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (53)",
+            "x": 239,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (54)",
+            "x": 238,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (55)",
+            "x": 237,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (56)",
+            "x": 236,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (57)",
+            "x": 235,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (58)",
+            "x": 234,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (59)",
+            "x": 233,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (60)",
+            "x": 232,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (61)",
+            "x": 231,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (62)",
+            "x": 230,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (63)",
+            "x": 229,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (64)",
+            "x": 228,
+            "y": 659,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (65)",
+            "x": 238,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (66)",
+            "x": 237,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (67)",
+            "x": 236,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (68)",
+            "x": 235,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (69)",
+            "x": 234,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (70)",
+            "x": 233,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (71)",
+            "x": 232,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (72)",
+            "x": 231,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (73)",
+            "x": 230,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (74)",
+            "x": 229,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (75)",
+            "x": 228,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (76)",
+            "x": 237,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (77)",
+            "x": 236,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (78)",
+            "x": 235,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (79)",
+            "x": 234,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (80)",
+            "x": 233,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (81)",
+            "x": 232,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (82)",
+            "x": 231,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (83)",
+            "x": 230,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (84)",
+            "x": 229,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (85)",
+            "x": 228,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (86)",
+            "x": 237,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (87)",
+            "x": 236,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (88)",
+            "x": 235,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (89)",
+            "x": 234,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (90)",
+            "x": 233,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (91)",
+            "x": 232,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (92)",
+            "x": 231,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (93)",
+            "x": 238,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (94)",
+            "x": 238,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (95)",
+            "x": 239,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (96)",
+            "x": 239,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 (97)",
+            "x": 239,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GimGrass_03 2",
+            "x": 239,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (1) 1",
+            "x": 243,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (2) 1",
+            "x": 246,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (2) 2",
+            "x": 243,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (3) 1",
+            "x": 246,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (4) 2",
+            "x": 241,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (4) 3",
+            "x": 246,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (5) 2",
+            "x": 242,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (5) 3",
+            "x": 246,
+            "y": 661,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (6) 2",
+            "x": 245,
+            "y": 663,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (7) 1",
+            "x": 245,
+            "y": 663,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (8) 3",
+            "x": 244,
+            "y": 663,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (9) 2",
+            "x": 233,
+            "y": 651,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (10) 3",
+            "x": 233,
+            "y": 651,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (11) 2",
+            "x": 233,
+            "y": 650,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (12) 2",
+            "x": 236,
+            "y": 651,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (13) 2",
+            "x": 236,
+            "y": 651,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (14) 2",
+            "x": 236,
+            "y": 650,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (15) 1",
+            "x": 235,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (16) 1",
+            "x": 235,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (17) 1",
+            "x": 234,
+            "y": 652,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (18) 1",
+            "x": 228,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (19) 1",
+            "x": 228,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (20) 1",
+            "x": 228,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (21) 1",
+            "x": 231,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (22) 1",
+            "x": 231,
+            "y": 657,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (23) 1",
+            "x": 231,
+            "y": 656,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 3",
+            "x": 241,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 4",
+            "x": 245,
+            "y": 654,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 5",
+            "x": 243,
+            "y": 662,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Guide_01",
+            "x": 240,
+            "y": 660,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Rock_01",
+            "x": 247,
+            "y": 646,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (1)",
+            "x": 247,
+            "y": 648,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_01 (1)",
+            "x": 226,
+            "y": 660,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_01 (2)",
+            "x": 224,
+            "y": 662,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_01 (3)",
+            "x": 226,
+            "y": 662,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_01 (4)",
+            "x": 238,
+            "y": 650,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_01 (5)",
+            "x": 238,
+            "y": 652,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_01 4",
+            "x": 224,
+            "y": 660,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_D_040_Cliff_01",
+            "x": 224,
+            "y": 640,
+            "width": 39,
+            "height": 39
+        },
+        {
+            "name": "P_D_040_Ground_01",
+            "x": 224,
+            "y": 640,
+            "width": 37,
+            "height": 21
+        },
+        {
+            "name": "P_D_040_Ground_02",
+            "x": 224,
+            "y": 640,
+            "width": 37,
+            "height": 10
+        },
+        {
+            "name": "P_D_040_Pond_01",
+            "x": 224,
+            "y": 640,
+            "width": 37,
+            "height": 14
+        },
+        {
+            "name": "P_D_040_PowerPlant_01",
+            "x": 240,
+            "y": 654,
+            "width": 7,
+            "height": 6
+        },
+        {
+            "name": "P_D_040_Door_01",
+            "x": 226,
+            "y": 640,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_D_040_Door_02",
+            "x": 224,
+            "y": 640,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_RoomInner_18",
+            "x": 226,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 1",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 1",
+            "x": 224,
+            "y": 641,
+            "width": 5,
+            "height": 8
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 2",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 2",
+            "x": 224,
+            "y": 641,
+            "width": 4,
+            "height": 6
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 3",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 3",
+            "x": 224,
+            "y": 641,
+            "width": 5,
+            "height": 7
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 4",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 4",
+            "x": 224,
+            "y": 641,
+            "width": 5,
+            "height": 8
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 5",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 5",
+            "x": 224,
+            "y": 641,
+            "width": 4,
+            "height": 6
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 6",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 6",
+            "x": 224,
+            "y": 641,
+            "width": 4,
+            "height": 6
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 7",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 7",
+            "x": 224,
+            "y": 641,
+            "width": 5,
+            "height": 8
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01 8",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02 8",
+            "x": 224,
+            "y": 641,
+            "width": 5,
+            "height": 7
+        },
+        {
+            "name": "SM_D_040_Windmill_01_01",
+            "x": 224,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "SM_D_040_Windmill_01_02",
+            "x": 224,
+            "y": 641,
+            "width": 4,
+            "height": 5
+        }
+    ]
+}

@@ -1,0 +1,1729 @@
+{
+    "area": "T06",
+    "originX": 32,
+    "originY": 0,
+    "mapData": [
+        {
+            "name": "P_C_001_PokeCen_01",
+            "x": 47,
+            "y": 19,
+            "width": 5,
+            "height": 4
+        },
+        {
+            "name": "SM_C_001_PokeCenLight_01",
+            "x": 32,
+            "y": 0,
+            "width": 4,
+            "height": 5
+        },
+        {
+            "name": "SM_C_001_PokeCenLight_01 (1)",
+            "x": 32,
+            "y": 0,
+            "width": 4,
+            "height": 5
+        },
+        {
+            "name": "P_C_001_DoorOuter_02",
+            "x": 32,
+            "y": 0,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Shop_01",
+            "x": 54,
+            "y": 19,
+            "width": 4,
+            "height": 3
+        },
+        {
+            "name": "SM_C_001_ShopLight_01",
+            "x": 32,
+            "y": 0,
+            "width": 4,
+            "height": 4
+        },
+        {
+            "name": "SM_C_001_ShopLight_01 (1)",
+            "x": 32,
+            "y": 0,
+            "width": 4,
+            "height": 4
+        },
+        {
+            "name": "P_C_001_DoorOuter_02 1",
+            "x": 32,
+            "y": 0,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_D_014_House_01 (1)",
+            "x": 46,
+            "y": 29,
+            "width": 4,
+            "height": 3
+        },
+        {
+            "name": "P_C_001_RoomInner_01 6",
+            "x": 32,
+            "y": 0,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_T_006_DoorOuter_01 5",
+            "x": 32,
+            "y": 0,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_D_014_House_01 (2)",
+            "x": 47,
+            "y": 6,
+            "width": 4,
+            "height": 3
+        },
+        {
+            "name": "P_C_001_RoomInner_01 7",
+            "x": 32,
+            "y": 0,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_T_006_DoorOuter_01 6",
+            "x": 32,
+            "y": 0,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_D_014_House_01 1",
+            "x": 41,
+            "y": 19,
+            "width": 4,
+            "height": 3
+        },
+        {
+            "name": "P_C_001_RoomInner_01 5",
+            "x": 32,
+            "y": 0,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_T_006_DoorOuter_01 7",
+            "x": 32,
+            "y": 0,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_3 (1) 4",
+            "x": 52,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_3 (2) 4",
+            "x": 54,
+            "y": 11,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_3 (3) 4",
+            "x": 58,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_3 (4) 4",
+            "x": 38,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_3 9",
+            "x": 40,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (1) 2",
+            "x": 46,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (2) 2",
+            "x": 45,
+            "y": 6,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (3) 2",
+            "x": 58,
+            "y": 13,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (4) 2",
+            "x": 59,
+            "y": 16,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 (5) 1",
+            "x": 37,
+            "y": 14,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComFlower_01_4 5",
+            "x": 40,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (1) 4",
+            "x": 52,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (2) 5",
+            "x": 45,
+            "y": 28,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 (3) 5",
+            "x": 52,
+            "y": 27,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_1 9",
+            "x": 59,
+            "y": 24,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_2 (1) 4",
+            "x": 41,
+            "y": 26,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_2 9",
+            "x": 41,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_3 9",
+            "x": 45,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (1) 5",
+            "x": 38,
+            "y": 19,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (2) 5",
+            "x": 58,
+            "y": 19,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (3) 5",
+            "x": 50,
+            "y": 29,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (4) 5",
+            "x": 47,
+            "y": 6,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 (5) 4",
+            "x": 53,
+            "y": 5,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_ComGrass_01_4 9",
+            "x": 34,
+            "y": 13,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (1) 2",
+            "x": 38,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (2) 1",
+            "x": 39,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (3) 1",
+            "x": 41,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (4) 1",
+            "x": 42,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (5) 1",
+            "x": 43,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (6) 1",
+            "x": 44,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (7) 1",
+            "x": 45,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (8)",
+            "x": 44,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (9)",
+            "x": 45,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (10)",
+            "x": 46,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (11)",
+            "x": 44,
+            "y": 10,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (12)",
+            "x": 45,
+            "y": 10,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (13)",
+            "x": 46,
+            "y": 10,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (14)",
+            "x": 46,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (15)",
+            "x": 47,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (16)",
+            "x": 48,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (17)",
+            "x": 49,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (18)",
+            "x": 50,
+            "y": 12,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (19)",
+            "x": 51,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (20)",
+            "x": 52,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (21)",
+            "x": 53,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (22)",
+            "x": 57,
+            "y": 8,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (23)",
+            "x": 57,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (24)",
+            "x": 56,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (25)",
+            "x": 57,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (26)",
+            "x": 58,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (27)",
+            "x": 59,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (28)",
+            "x": 60,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (29)",
+            "x": 61,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (30)",
+            "x": 57,
+            "y": 11,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 (31)",
+            "x": 58,
+            "y": 11,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Flower_02 3",
+            "x": 37,
+            "y": 9,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (1) 3",
+            "x": 48,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (2) 3",
+            "x": 47,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (3) 3",
+            "x": 52,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (4) 3",
+            "x": 47,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (5) 3",
+            "x": 47,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (6) 3",
+            "x": 47,
+            "y": 16,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (7) 3",
+            "x": 52,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (8) 3",
+            "x": 52,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (9) 3",
+            "x": 52,
+            "y": 16,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (46)",
+            "x": 54,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (47)",
+            "x": 54,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (48)",
+            "x": 54,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (49)",
+            "x": 58,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (50)",
+            "x": 58,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (51)",
+            "x": 58,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (52)",
+            "x": 57,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (53)",
+            "x": 57,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (65)",
+            "x": 45,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (66)",
+            "x": 41,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (67)",
+            "x": 50,
+            "y": 29,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (68)",
+            "x": 46,
+            "y": 29,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (69)",
+            "x": 42,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (70)",
+            "x": 43,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (71)",
+            "x": 44,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (72)",
+            "x": 45,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (73)",
+            "x": 45,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (74)",
+            "x": 45,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (75)",
+            "x": 45,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (76)",
+            "x": 41,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (77)",
+            "x": 41,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (78)",
+            "x": 41,
+            "y": 17,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (79)",
+            "x": 41,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (80)",
+            "x": 47,
+            "y": 29,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (81)",
+            "x": 48,
+            "y": 29,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (82)",
+            "x": 49,
+            "y": 29,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (83)",
+            "x": 50,
+            "y": 28,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (84)",
+            "x": 50,
+            "y": 27,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (85)",
+            "x": 50,
+            "y": 27,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (86)",
+            "x": 50,
+            "y": 28,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (87)",
+            "x": 46,
+            "y": 28,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (88)",
+            "x": 46,
+            "y": 27,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (89)",
+            "x": 46,
+            "y": 27,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (90)",
+            "x": 46,
+            "y": 28,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (91)",
+            "x": 51,
+            "y": 6,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (92)",
+            "x": 47,
+            "y": 6,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (93)",
+            "x": 48,
+            "y": 6,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (94)",
+            "x": 49,
+            "y": 6,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (95)",
+            "x": 50,
+            "y": 6,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (96)",
+            "x": 51,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (97)",
+            "x": 51,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (98)",
+            "x": 51,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (99)",
+            "x": 51,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (100)",
+            "x": 47,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (101)",
+            "x": 47,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (102)",
+            "x": 47,
+            "y": 4,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 (103)",
+            "x": 47,
+            "y": 5,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_GrassSeam_01 7",
+            "x": 51,
+            "y": 18,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Intake_01 (1) 2",
+            "x": 52,
+            "y": 8,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Intake_01 4",
+            "x": 44,
+            "y": 8,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Rock_04 (1) 1",
+            "x": 52,
+            "y": 27,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 (2) 1",
+            "x": 61,
+            "y": 16,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 3",
+            "x": 37,
+            "y": 31,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_05 6",
+            "x": 54,
+            "y": 26,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "P_C_001_Tree_05 (1) 3",
+            "x": 34,
+            "y": 9,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (3) 3",
+            "x": 32,
+            "y": 11,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (4) 3",
+            "x": 32,
+            "y": 13,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (5) 3",
+            "x": 34,
+            "y": 13,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (6) 3",
+            "x": 34,
+            "y": 11,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (8) 3",
+            "x": 32,
+            "y": 22,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (9) 2",
+            "x": 32,
+            "y": 20,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (10) 2",
+            "x": 34,
+            "y": 24,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (11) 2",
+            "x": 34,
+            "y": 22,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (12) 2",
+            "x": 36,
+            "y": 24,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (13) 2",
+            "x": 40,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (14) 2",
+            "x": 42,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (15) 2",
+            "x": 44,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (16) 2",
+            "x": 46,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (17) 3",
+            "x": 48,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (18) 3",
+            "x": 42,
+            "y": 28,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (19) 2",
+            "x": 44,
+            "y": 28,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (20) 2",
+            "x": 45,
+            "y": 17,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (21) 2",
+            "x": 45,
+            "y": 19,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (22) 2",
+            "x": 45,
+            "y": 22,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (23) 2",
+            "x": 52,
+            "y": 17,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (24) 2",
+            "x": 52,
+            "y": 19,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (25) 2",
+            "x": 56,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (26) 2",
+            "x": 58,
+            "y": 24,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (27) 2",
+            "x": 58,
+            "y": 29,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (28) 2",
+            "x": 56,
+            "y": 30,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (29) 2",
+            "x": 56,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (30) 2",
+            "x": 54,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (31) 2",
+            "x": 40,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (32) 2",
+            "x": 42,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (33) 2",
+            "x": 44,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (34) 2",
+            "x": 62,
+            "y": 24,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (35) 2",
+            "x": 62,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (36) 2",
+            "x": 62,
+            "y": 22,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (37) 2",
+            "x": 46,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (38) 2",
+            "x": 48,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (39) 2",
+            "x": 50,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (40) 2",
+            "x": 52,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (41) 2",
+            "x": 54,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (42) 2",
+            "x": 44,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (43) 2",
+            "x": 60,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (44) 2",
+            "x": 62,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (45) 2",
+            "x": 60,
+            "y": 11,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (46) 2",
+            "x": 62,
+            "y": 11,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (47) 2",
+            "x": 32,
+            "y": 26,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (48) 2",
+            "x": 32,
+            "y": 24,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (49) 2",
+            "x": 32,
+            "y": 30,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (50) 2",
+            "x": 32,
+            "y": 28,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (51) 2",
+            "x": 34,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (52) 1",
+            "x": 34,
+            "y": 30,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (53) 2",
+            "x": 56,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (54) 2",
+            "x": 58,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (55) 2",
+            "x": 36,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (56) 2",
+            "x": 38,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (57) 2",
+            "x": 40,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (58) 2",
+            "x": 34,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (59) 2",
+            "x": 60,
+            "y": 13,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 (60) 2",
+            "x": 62,
+            "y": 13,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Tree_05 8",
+            "x": 32,
+            "y": 9,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (6) 1",
+            "x": 32,
+            "y": 32,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (7) 2",
+            "x": 32,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (8) 2",
+            "x": 32,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (9) 2",
+            "x": 32,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (13) 2",
+            "x": 34,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (14) 2",
+            "x": 34,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (16) 2",
+            "x": 36,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (17) 2",
+            "x": 36,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (19) 2",
+            "x": 38,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (20) 2",
+            "x": 38,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (22) 2",
+            "x": 40,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (23) 2",
+            "x": 40,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (24) 2",
+            "x": 42,
+            "y": 34,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (25) 2",
+            "x": 42,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (26) 2",
+            "x": 42,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (27) 2",
+            "x": 46,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (28) 2",
+            "x": 44,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (29) 2",
+            "x": 44,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (30) 2",
+            "x": 46,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (31) 2",
+            "x": 48,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (32) 1",
+            "x": 48,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (33) 2",
+            "x": 50,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (34) 2",
+            "x": 50,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (35) 2",
+            "x": 52,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (36) 2",
+            "x": 52,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (37) 2",
+            "x": 54,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (38) 2",
+            "x": 54,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (40) 2",
+            "x": 56,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (41) 2",
+            "x": 56,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (43) 2",
+            "x": 58,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (44) 2",
+            "x": 58,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (45) 2",
+            "x": 60,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (46) 2",
+            "x": 60,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (47) 2",
+            "x": 62,
+            "y": 36,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (48) 2",
+            "x": 62,
+            "y": 38,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (51) 2",
+            "x": 38,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (52) 2",
+            "x": 40,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (53) 2",
+            "x": 42,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (54) 2",
+            "x": 44,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (55) 2",
+            "x": 46,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (56) 2",
+            "x": 48,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (57) 2",
+            "x": 50,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (58) 2",
+            "x": 52,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (59) 2",
+            "x": 54,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (60) 2",
+            "x": 56,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (61) 2",
+            "x": 58,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_TreeLow_05 (62) 2",
+            "x": 60,
+            "y": 40,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_D_013_Cliff_01_1F_01",
+            "x": 32,
+            "y": 0,
+            "width": 32,
+            "height": 32
+        },
+        {
+            "name": "P_D_013_Ground_01_1F_01",
+            "x": 32,
+            "y": 0,
+            "width": 33,
+            "height": 48
+        },
+        {
+            "name": "P_D_013_SignBoard_01",
+            "x": 38,
+            "y": 19,
+            "width": 1,
+            "height": 1
+        },
+        {
+            "name": "SM_D_013_Step_01",
+            "x": 32,
+            "y": 0,
+            "width": 20,
+            "height": 4
+        }
+    ]
+}

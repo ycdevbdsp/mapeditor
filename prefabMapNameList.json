@@ -1,0 +1,3950 @@
+[{
+        "ZoneID": 0,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Jubilife City",
+        "WarpName": "C01"
+    }, {
+        "ZoneID": 1,
+        "AreaID": 1,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Jubilife City",
+        "WarpName": "C01FS0101"
+    }, {
+        "ZoneID": 2,
+        "AreaID": 2,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Jubilife City",
+        "WarpName": "C01PC0101"
+    }, {
+        "ZoneID": 3,
+        "AreaID": 3,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Jubilife City",
+        "WarpName": "C01PC0102"
+    }, {
+        "ZoneID": 4,
+        "AreaID": 4,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Jubilife City",
+        "WarpName": "C01PC0103"
+    }, {
+        "ZoneID": 5,
+        "AreaID": 5,
+        "AssetBundleName": "prefab_map/c01r0101",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0101"
+    }, {
+        "ZoneID": 6,
+        "AreaID": 6,
+        "AssetBundleName": "prefab_map/c01r0102",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0102"
+    }, {
+        "ZoneID": 7,
+        "AreaID": 7,
+        "AssetBundleName": "prefab_map/c01r0103",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0103"
+    }, {
+        "ZoneID": 8,
+        "AreaID": 8,
+        "AssetBundleName": "prefab_map/c01r0201",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0201"
+    }, {
+        "ZoneID": 9,
+        "AreaID": 9,
+        "AssetBundleName": "prefab_map/c01r0202",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0202"
+    }, {
+        "ZoneID": 10,
+        "AreaID": 10,
+        "AssetBundleName": "prefab_map/c01r0203",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0203"
+    }, {
+        "ZoneID": 11,
+        "AreaID": 11,
+        "AssetBundleName": "prefab_map/c01r0204",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0204"
+    }, {
+        "ZoneID": 12,
+        "AreaID": 12,
+        "AssetBundleName": "prefab_map/c01r0205",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0205"
+    }, {
+        "ZoneID": 13,
+        "AreaID": 13,
+        "AssetBundleName": "prefab_map/c01r0206",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0206"
+    }, {
+        "ZoneID": 14,
+        "AreaID": 14,
+        "AssetBundleName": "prefab_map/c01r0207",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0207"
+    }, {
+        "ZoneID": 15,
+        "AreaID": 15,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0208"
+    }, {
+        "ZoneID": 16,
+        "AreaID": 16,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0301"
+    }, {
+        "ZoneID": 17,
+        "AreaID": 17,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0302"
+    }, {
+        "ZoneID": 18,
+        "AreaID": 18,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0501"
+    }, {
+        "ZoneID": 19,
+        "AreaID": 19,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0502"
+    }, {
+        "ZoneID": 20,
+        "AreaID": 20,
+        "AssetBundleName": "prefab_map/c01r0601",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0601"
+    }, {
+        "ZoneID": 21,
+        "AreaID": 21,
+        "AssetBundleName": "prefab_map/c01r0701",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0701"
+    }, {
+        "ZoneID": 22,
+        "AreaID": 22,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0801"
+    }, {
+        "ZoneID": 23,
+        "AreaID": 23,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0802"
+    }, {
+        "ZoneID": 24,
+        "AreaID": 500,
+        "AssetBundleName": "fields/area010",
+        "MapName": "Canalave City",
+        "WarpName": "C02"
+    }, {
+        "ZoneID": 25,
+        "AreaID": 25,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Canalave City",
+        "WarpName": "C02FS0101"
+    }, {
+        "ZoneID": 26,
+        "AreaID": 26,
+        "AssetBundleName": "prefab_map/c02gym0101",
+        "MapName": "Canalave City",
+        "WarpName": "C02GYM0101"
+    }, {
+        "ZoneID": 27,
+        "AreaID": 27,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Canalave City",
+        "WarpName": "C02PC0101"
+    }, {
+        "ZoneID": 28,
+        "AreaID": 28,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Canalave City",
+        "WarpName": "C02PC0102"
+    }, {
+        "ZoneID": 29,
+        "AreaID": 29,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Canalave City",
+        "WarpName": "C02PC0103"
+    }, {
+        "ZoneID": 30,
+        "AreaID": 30,
+        "AssetBundleName": "prefab_map/c02r0101",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0101"
+    }, {
+        "ZoneID": 31,
+        "AreaID": 31,
+        "AssetBundleName": "prefab_map/c02r0102",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0102"
+    }, {
+        "ZoneID": 32,
+        "AreaID": 32,
+        "AssetBundleName": "prefab_map/c02r0103",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0103"
+    }, {
+        "ZoneID": 33,
+        "AreaID": 33,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0201"
+    }, {
+        "ZoneID": 34,
+        "AreaID": 34,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0301"
+    }, {
+        "ZoneID": 35,
+        "AreaID": 35,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0401"
+    }, {
+        "ZoneID": 36,
+        "AreaID": 36,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0501"
+    }, {
+        "ZoneID": 37,
+        "AreaID": 37,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Canalave City",
+        "WarpName": "C02R0601"
+    }, {
+        "ZoneID": 38,
+        "AreaID": 492,
+        "AssetBundleName": "fields/area002",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03"
+    }, {
+        "ZoneID": 39,
+        "AreaID": 39,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03FS0101"
+    }, {
+        "ZoneID": 40,
+        "AreaID": 40,
+        "AssetBundleName": "prefab_map/c03gym0101",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03GYM0101"
+    }, {
+        "ZoneID": 41,
+        "AreaID": 41,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03PC0101"
+    }, {
+        "ZoneID": 42,
+        "AreaID": 42,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03PC0102"
+    }, {
+        "ZoneID": 43,
+        "AreaID": 43,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03PC0103"
+    }, {
+        "ZoneID": 44,
+        "AreaID": 44,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0101"
+    }, {
+        "ZoneID": 45,
+        "AreaID": 45,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0102"
+    }, {
+        "ZoneID": 46,
+        "AreaID": 46,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0201"
+    }, {
+        "ZoneID": 47,
+        "AreaID": 47,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0202"
+    }, {
+        "ZoneID": 48,
+        "AreaID": 48,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0301"
+    }, {
+        "ZoneID": 49,
+        "AreaID": 49,
+        "AssetBundleName": "prefab_map/c03r0401",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0401"
+    }, {
+        "ZoneID": 50,
+        "AreaID": 50,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0501"
+    }, {
+        "ZoneID": 51,
+        "AreaID": 51,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0601"
+    }, {
+        "ZoneID": 52,
+        "AreaID": 52,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0602"
+    }, {
+        "ZoneID": 53,
+        "AreaID": 53,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Oreburgh City",
+        "WarpName": "C03R0701"
+    }, {
+        "ZoneID": 54,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Eterna City",
+        "WarpName": "C04"
+    }, {
+        "ZoneID": 55,
+        "AreaID": 55,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Eterna City",
+        "WarpName": "C04FS0101"
+    }, {
+        "ZoneID": 56,
+        "AreaID": 56,
+        "AssetBundleName": "prefab_map/c04gym0101",
+        "MapName": "Eterna City",
+        "WarpName": "C04GYM0101"
+    }, {
+        "ZoneID": 57,
+        "AreaID": 57,
+        "AssetBundleName": "prefab_map/c04gym0102",
+        "MapName": "Eterna City",
+        "WarpName": "C04GYM0102"
+    }, {
+        "ZoneID": 58,
+        "AreaID": 58,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Eterna City",
+        "WarpName": "C04PC0101"
+    }, {
+        "ZoneID": 59,
+        "AreaID": 59,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Eterna City",
+        "WarpName": "C04PC0102"
+    }, {
+        "ZoneID": 60,
+        "AreaID": 60,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Eterna City",
+        "WarpName": "C04PC0103"
+    }, {
+        "ZoneID": 61,
+        "AreaID": 61,
+        "AssetBundleName": "prefab_map/c04r0101",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0101"
+    }, {
+        "ZoneID": 62,
+        "AreaID": 62,
+        "AssetBundleName": "prefab_map/c04r0201",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0201"
+    }, {
+        "ZoneID": 63,
+        "AreaID": 63,
+        "AssetBundleName": "prefab_map/c04r0202",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0202"
+    }, {
+        "ZoneID": 64,
+        "AreaID": 64,
+        "AssetBundleName": "prefab_map/c04r0203",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0203"
+    }, {
+        "ZoneID": 65,
+        "AreaID": 65,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0204"
+    }, {
+        "ZoneID": 66,
+        "AreaID": 66,
+        "AssetBundleName": "prefab_map/c01r0301",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0301"
+    }, {
+        "ZoneID": 67,
+        "AreaID": 67,
+        "AssetBundleName": "prefab_map/c04r0302",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0302"
+    }, {
+        "ZoneID": 68,
+        "AreaID": 68,
+        "AssetBundleName": "prefab_map/c01r0302",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0303"
+    }, {
+        "ZoneID": 69,
+        "AreaID": 69,
+        "AssetBundleName": "prefab_map/c04r0401",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0401"
+    }, {
+        "ZoneID": 70,
+        "AreaID": 70,
+        "AssetBundleName": "prefab_map/c04r0501",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0501"
+    }, {
+        "ZoneID": 71,
+        "AreaID": 71,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0601"
+    }, {
+        "ZoneID": 72,
+        "AreaID": 72,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0701"
+    }, {
+        "ZoneID": 73,
+        "AreaID": 73,
+        "AssetBundleName": "prefab_map/c04r0801",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0801"
+    }, {
+        "ZoneID": 74,
+        "AreaID": 494,
+        "AssetBundleName": "fields/area004",
+        "MapName": "Hearthome City",
+        "WarpName": "C05"
+    }, {
+        "ZoneID": 75,
+        "AreaID": 75,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05FS0101"
+    }, {
+        "ZoneID": 76,
+        "AreaID": 76,
+        "AssetBundleName": "prefab_map/c05gym0101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0101"
+    }, {
+        "ZoneID": 77,
+        "AreaID": 77,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0102"
+    }, {
+        "ZoneID": 78,
+        "AreaID": 78,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0103"
+    }, {
+        "ZoneID": 79,
+        "AreaID": 79,
+        "AssetBundleName": "prefab_map/c05gym0104",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0104"
+    }, {
+        "ZoneID": 80,
+        "AreaID": 80,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0105"
+    }, {
+        "ZoneID": 81,
+        "AreaID": 81,
+        "AssetBundleName": "prefab_map/c05gym0104",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0106"
+    }, {
+        "ZoneID": 82,
+        "AreaID": 82,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0107"
+    }, {
+        "ZoneID": 83,
+        "AreaID": 83,
+        "AssetBundleName": "prefab_map/c05gym0104",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0108"
+    }, {
+        "ZoneID": 84,
+        "AreaID": 84,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0109"
+    }, {
+        "ZoneID": 85,
+        "AreaID": 85,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0110"
+    }, {
+        "ZoneID": 86,
+        "AreaID": 86,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0111"
+    }, {
+        "ZoneID": 87,
+        "AreaID": 87,
+        "AssetBundleName": "prefab_map/c05gym0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0112"
+    }, {
+        "ZoneID": 88,
+        "AreaID": 88,
+        "AssetBundleName": "prefab_map/c05gym0113",
+        "MapName": "Hearthome City",
+        "WarpName": "C05GYM0113"
+    }, {
+        "ZoneID": 89,
+        "AreaID": 89,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05PC0101"
+    }, {
+        "ZoneID": 90,
+        "AreaID": 90,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05PC0102"
+    }, {
+        "ZoneID": 91,
+        "AreaID": 91,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Hearthome City",
+        "WarpName": "C05PC0103"
+    }, {
+        "ZoneID": 92,
+        "AreaID": 92,
+        "AssetBundleName": "prefab_map/c05r0101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0101"
+    }, {
+        "ZoneID": 93,
+        "AreaID": 93,
+        "AssetBundleName": "prefab_map/c05r0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0102"
+    }, {
+        "ZoneID": 94,
+        "AreaID": 94,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0103"
+    }, {
+        "ZoneID": 95,
+        "AreaID": 95,
+        "AssetBundleName": "prefab_map/c05r0201",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0201"
+    }, {
+        "ZoneID": 96,
+        "AreaID": 96,
+        "AssetBundleName": "prefab_map/c05r0301",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0301"
+    }, {
+        "ZoneID": 97,
+        "AreaID": 97,
+        "AssetBundleName": "prefab_map/c05r0301",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0401"
+    }, {
+        "ZoneID": 98,
+        "AreaID": 98,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0501"
+    }, {
+        "ZoneID": 99,
+        "AreaID": 99,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0601"
+    }, {
+        "ZoneID": 100,
+        "AreaID": 100,
+        "AssetBundleName": "prefab_map/c05r0301",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0701"
+    }, {
+        "ZoneID": 101,
+        "AreaID": 101,
+        "AssetBundleName": "prefab_map/c05r0801",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0801"
+    }, {
+        "ZoneID": 102,
+        "AreaID": 102,
+        "AssetBundleName": "prefab_map/c05r0102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0802"
+    }, {
+        "ZoneID": 103,
+        "AreaID": 103,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0803"
+    }, {
+        "ZoneID": 104,
+        "AreaID": 104,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R0901"
+    }, {
+        "ZoneID": 105,
+        "AreaID": 105,
+        "AssetBundleName": "prefab_map/c05r1001",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R1001"
+    }, {
+        "ZoneID": 106,
+        "AreaID": 106,
+        "AssetBundleName": "prefab_map/c05r1101",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R1101"
+    }, {
+        "ZoneID": 107,
+        "AreaID": 107,
+        "AssetBundleName": "prefab_map/c05r1102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R1102"
+    }, {
+        "ZoneID": 108,
+        "AreaID": 108,
+        "AssetBundleName": "prefab_map/c05r1102",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R1103"
+    }, {
+        "ZoneID": 109,
+        "AreaID": 109,
+        "AssetBundleName": "prefab_map/c05r1201",
+        "MapName": "Hearthome City",
+        "WarpName": "C05R1201"
+    }, {
+        "ZoneID": 110,
+        "AreaID": 497,
+        "AssetBundleName": "fields/area007",
+        "MapName": "Pastoria City",
+        "WarpName": "C06"
+    }, {
+        "ZoneID": 111,
+        "AreaID": 111,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Pastoria City",
+        "WarpName": "C06FS0101"
+    }, {
+        "ZoneID": 112,
+        "AreaID": 112,
+        "AssetBundleName": "prefab_map/c06gym0101",
+        "MapName": "Pastoria City",
+        "WarpName": "C06GYM0101"
+    }, {
+        "ZoneID": 113,
+        "AreaID": 113,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Pastoria City",
+        "WarpName": "C06PC0101"
+    }, {
+        "ZoneID": 114,
+        "AreaID": 114,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Pastoria City",
+        "WarpName": "C06PC0102"
+    }, {
+        "ZoneID": 115,
+        "AreaID": 115,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Pastoria City",
+        "WarpName": "C06PC0103"
+    }, {
+        "ZoneID": 116,
+        "AreaID": 116,
+        "AssetBundleName": "prefab_map/c06r0101",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0101"
+    }, {
+        "ZoneID": 117,
+        "AreaID": 117,
+        "AssetBundleName": "prefab_map/c06r0102",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0102"
+    }, {
+        "ZoneID": 118,
+        "AreaID": 118,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0201"
+    }, {
+        "ZoneID": 119,
+        "AreaID": 119,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0301"
+    }, {
+        "ZoneID": 120,
+        "AreaID": 120,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0401"
+    }, {
+        "ZoneID": 121,
+        "AreaID": 121,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0501"
+    }, {
+        "ZoneID": 122,
+        "AreaID": 122,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Pastoria City",
+        "WarpName": "C06R0601"
+    }, {
+        "ZoneID": 123,
+        "AreaID": 496,
+        "AssetBundleName": "fields/area006",
+        "MapName": "Veilstone City",
+        "WarpName": "C07"
+    }, {
+        "ZoneID": 124,
+        "AreaID": 124,
+        "AssetBundleName": "prefab_map/c07gym0101",
+        "MapName": "Veilstone City",
+        "WarpName": "C07GYM0101"
+    }, {
+        "ZoneID": 125,
+        "AreaID": 125,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Veilstone City",
+        "WarpName": "C07PC0101"
+    }, {
+        "ZoneID": 126,
+        "AreaID": 126,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Veilstone City",
+        "WarpName": "C07PC0102"
+    }, {
+        "ZoneID": 127,
+        "AreaID": 127,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Veilstone City",
+        "WarpName": "C07PC0103"
+    }, {
+        "ZoneID": 128,
+        "AreaID": 128,
+        "AssetBundleName": "prefab_map/c07r0101",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0101"
+    }, {
+        "ZoneID": 129,
+        "AreaID": 129,
+        "AssetBundleName": "prefab_map/c07r0201",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0201"
+    }, {
+        "ZoneID": 130,
+        "AreaID": 130,
+        "AssetBundleName": "prefab_map/c07r0202",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0202"
+    }, {
+        "ZoneID": 131,
+        "AreaID": 131,
+        "AssetBundleName": "prefab_map/c07r0203",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0203"
+    }, {
+        "ZoneID": 132,
+        "AreaID": 132,
+        "AssetBundleName": "prefab_map/c07r0204",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0204"
+    }, {
+        "ZoneID": 133,
+        "AreaID": 133,
+        "AssetBundleName": "prefab_map/c07r0205",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0205"
+    }, {
+        "ZoneID": 134,
+        "AreaID": 134,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0206"
+    }, {
+        "ZoneID": 135,
+        "AreaID": 135,
+        "AssetBundleName": "prefab_map/c07r0301",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0301"
+    }, {
+        "ZoneID": 136,
+        "AreaID": 136,
+        "AssetBundleName": "prefab_map/c07r0401",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0401"
+    }, {
+        "ZoneID": 137,
+        "AreaID": 137,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0501"
+    }, {
+        "ZoneID": 138,
+        "AreaID": 138,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0601"
+    }, {
+        "ZoneID": 139,
+        "AreaID": 139,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0701"
+    }, {
+        "ZoneID": 140,
+        "AreaID": 140,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0801"
+    }, {
+        "ZoneID": 141,
+        "AreaID": 141,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Veilstone City",
+        "WarpName": "C07R0901"
+    }, {
+        "ZoneID": 142,
+        "AreaID": 498,
+        "AssetBundleName": "fields/area008",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08"
+    }, {
+        "ZoneID": 143,
+        "AreaID": 143,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08FS0101"
+    }, {
+        "ZoneID": 144,
+        "AreaID": 144,
+        "AssetBundleName": "prefab_map/c08gym0101",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08GYM0101"
+    }, {
+        "ZoneID": 145,
+        "AreaID": 145,
+        "AssetBundleName": "prefab_map/c08gym0102",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08GYM0102"
+    }, {
+        "ZoneID": 146,
+        "AreaID": 146,
+        "AssetBundleName": "prefab_map/c08gym0103",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08GYM0103"
+    }, {
+        "ZoneID": 147,
+        "AreaID": 147,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08PC0101"
+    }, {
+        "ZoneID": 148,
+        "AreaID": 148,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08PC0102"
+    }, {
+        "ZoneID": 149,
+        "AreaID": 149,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08PC0103"
+    }, {
+        "ZoneID": 150,
+        "AreaID": 150,
+        "AssetBundleName": "prefab_map/c08r0101",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0101"
+    }, {
+        "ZoneID": 151,
+        "AreaID": 151,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0201"
+    }, {
+        "ZoneID": 152,
+        "AreaID": 152,
+        "AssetBundleName": "prefab_map/c04r0801",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0301"
+    }, {
+        "ZoneID": 153,
+        "AreaID": 153,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0401"
+    }, {
+        "ZoneID": 154,
+        "AreaID": 154,
+        "AssetBundleName": "prefab_map/c08r0501",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0501"
+    }, {
+        "ZoneID": 155,
+        "AreaID": 155,
+        "AssetBundleName": "prefab_map/c08r0601",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0601"
+    }, {
+        "ZoneID": 156,
+        "AreaID": 156,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0701"
+    }, {
+        "ZoneID": 157,
+        "AreaID": 157,
+        "AssetBundleName": "prefab_map/c08r0801",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0801"
+    }, {
+        "ZoneID": 158,
+        "AreaID": 158,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Sunyshore City",
+        "WarpName": "C08R0802"
+    }, {
+        "ZoneID": 159,
+        "AreaID": 499,
+        "AssetBundleName": "fields/area009",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09"
+    }, {
+        "ZoneID": 160,
+        "AreaID": 160,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09FS0101"
+    }, {
+        "ZoneID": 161,
+        "AreaID": 161,
+        "AssetBundleName": "prefab_map/c09gym0101",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09GYM0101"
+    }, {
+        "ZoneID": 162,
+        "AreaID": 162,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09PC0101"
+    }, {
+        "ZoneID": 163,
+        "AreaID": 163,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09PC0102"
+    }, {
+        "ZoneID": 164,
+        "AreaID": 164,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09PC0103"
+    }, {
+        "ZoneID": 165,
+        "AreaID": 165,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09R0101"
+    }, {
+        "ZoneID": 166,
+        "AreaID": 166,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Snowpoint City",
+        "WarpName": "C09R0201"
+    }, {
+        "ZoneID": 167,
+        "AreaID": 498,
+        "AssetBundleName": "fields/area008",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10"
+    }, {
+        "ZoneID": 168,
+        "AreaID": 168,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10PC0101"
+    }, {
+        "ZoneID": 169,
+        "AreaID": 169,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10PC0102"
+    }, {
+        "ZoneID": 170,
+        "AreaID": 170,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10PC0103"
+    }, {
+        "ZoneID": 171,
+        "AreaID": 171,
+        "AssetBundleName": "prefab_map/c10r0101",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0101"
+    }, {
+        "ZoneID": 172,
+        "AreaID": 172,
+        "AssetBundleName": "prefab_map/c10r0102",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0102"
+    }, {
+        "ZoneID": 173,
+        "AreaID": 173,
+        "AssetBundleName": "prefab_map/c10r0103",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0103"
+    }, {
+        "ZoneID": 174,
+        "AreaID": 174,
+        "AssetBundleName": "prefab_map/c10r0104",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0104"
+    }, {
+        "ZoneID": 175,
+        "AreaID": 175,
+        "AssetBundleName": "prefab_map/c10r0105",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0105"
+    }, {
+        "ZoneID": 176,
+        "AreaID": 176,
+        "AssetBundleName": "prefab_map/c10r0104",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0106"
+    }, {
+        "ZoneID": 177,
+        "AreaID": 177,
+        "AssetBundleName": "prefab_map/c10r0107",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0107"
+    }, {
+        "ZoneID": 178,
+        "AreaID": 178,
+        "AssetBundleName": "prefab_map/c10r0104",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0108"
+    }, {
+        "ZoneID": 179,
+        "AreaID": 179,
+        "AssetBundleName": "prefab_map/c10r0109",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0109"
+    }, {
+        "ZoneID": 180,
+        "AreaID": 180,
+        "AssetBundleName": "prefab_map/c10r0110",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0110"
+    }, {
+        "ZoneID": 181,
+        "AreaID": 181,
+        "AssetBundleName": "prefab_map/c10r0111",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0111"
+    }, {
+        "ZoneID": 182,
+        "AreaID": 182,
+        "AssetBundleName": "prefab_map/c10r0112",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0112"
+    }, {
+        "ZoneID": 183,
+        "AreaID": 183,
+        "AssetBundleName": "prefab_map/c10r0113",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0113"
+    }, {
+        "ZoneID": 184,
+        "AreaID": 184,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0114"
+    }, {
+        "ZoneID": 185,
+        "AreaID": 185,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Pok\u00c3\u00a9mon League",
+        "WarpName": "C10R0115"
+    }, {
+        "ZoneID": 186,
+        "AreaID": 504,
+        "AssetBundleName": "fields/area014",
+        "MapName": "Fight Area",
+        "WarpName": "C11"
+    }, {
+        "ZoneID": 187,
+        "AreaID": 187,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Fight Area",
+        "WarpName": "C11FS0101"
+    }, {
+        "ZoneID": 188,
+        "AreaID": 188,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Fight Area",
+        "WarpName": "C11PC0101"
+    }, {
+        "ZoneID": 189,
+        "AreaID": 189,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Fight Area",
+        "WarpName": "C11PC0102"
+    }, {
+        "ZoneID": 190,
+        "AreaID": 190,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Fight Area",
+        "WarpName": "C11PC0103"
+    }, {
+        "ZoneID": 191,
+        "AreaID": 191,
+        "AssetBundleName": "prefab_map/c04r0401",
+        "MapName": "Fight Area",
+        "WarpName": "C11R0101"
+    }, {
+        "ZoneID": 192,
+        "AreaID": 192,
+        "AssetBundleName": "prefab_map/c05r0301",
+        "MapName": "Fight Area",
+        "WarpName": "C11R0201"
+    }, {
+        "ZoneID": 193,
+        "AreaID": 193,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Fight Area",
+        "WarpName": "C11R0301"
+    }, {
+        "ZoneID": 194,
+        "AreaID": 194,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Fight Area",
+        "WarpName": "C11R0401"
+    }, {
+        "ZoneID": 195,
+        "AreaID": 195,
+        "AssetBundleName": "prefab_map/d01r0101",
+        "MapName": "Oreburgh Mine",
+        "WarpName": "D01R0101"
+    }, {
+        "ZoneID": 196,
+        "AreaID": 196,
+        "AssetBundleName": "prefab_map/d01r0102",
+        "MapName": "Oreburgh Mine",
+        "WarpName": "D01R0102"
+    }, {
+        "ZoneID": 197,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Valley Windworks",
+        "WarpName": "D02"
+    }, {
+        "ZoneID": 198,
+        "AreaID": 198,
+        "AssetBundleName": "prefab_map/d02r0101",
+        "MapName": "Valley Windworks",
+        "WarpName": "D02R0101"
+    }, {
+        "ZoneID": 199,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Eterna Forest",
+        "WarpName": "D03"
+    }, {
+        "ZoneID": 200,
+        "AreaID": 200,
+        "AssetBundleName": "prefab_map/d03r0101",
+        "MapName": "Eterna Forest",
+        "WarpName": "D03R0101"
+    }, {
+        "ZoneID": 201,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Fuego Ironworks",
+        "WarpName": "D04"
+    }, {
+        "ZoneID": 202,
+        "AreaID": 202,
+        "AssetBundleName": "prefab_map/d04r0101",
+        "MapName": "Fuego Ironworks",
+        "WarpName": "D04R0101"
+    }, {
+        "ZoneID": 203,
+        "AreaID": 203,
+        "AssetBundleName": "prefab_map/d05r0101",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0101"
+    }, {
+        "ZoneID": 204,
+        "AreaID": 204,
+        "AssetBundleName": "prefab_map/d05r0102",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0102"
+    }, {
+        "ZoneID": 205,
+        "AreaID": 205,
+        "AssetBundleName": "prefab_map/d05r0103",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0103"
+    }, {
+        "ZoneID": 206,
+        "AreaID": 206,
+        "AssetBundleName": "prefab_map/d05r0104",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0104"
+    }, {
+        "ZoneID": 207,
+        "AreaID": 207,
+        "AssetBundleName": "prefab_map/d05r0105",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0105"
+    }, {
+        "ZoneID": 208,
+        "AreaID": 208,
+        "AssetBundleName": "prefab_map/d05r0106",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0106"
+    }, {
+        "ZoneID": 209,
+        "AreaID": 209,
+        "AssetBundleName": "prefab_map/d05r0107",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0107"
+    }, {
+        "ZoneID": 210,
+        "AreaID": 210,
+        "AssetBundleName": "prefab_map/d05r0108",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0108"
+    }, {
+        "ZoneID": 211,
+        "AreaID": 211,
+        "AssetBundleName": "prefab_map/d05r0109",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0109"
+    }, {
+        "ZoneID": 212,
+        "AreaID": 212,
+        "AssetBundleName": "prefab_map/d05r0110",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0110"
+    }, {
+        "ZoneID": 213,
+        "AreaID": 213,
+        "AssetBundleName": "prefab_map/d05r0111",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0111"
+    }, {
+        "ZoneID": 214,
+        "AreaID": 214,
+        "AssetBundleName": "prefab_map/d05r0112",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0112"
+    }, {
+        "ZoneID": 215,
+        "AreaID": 215,
+        "AssetBundleName": "prefab_map/d05r0113",
+        "MapName": "Mount Coronet",
+        "WarpName": "D05R0113"
+    }, {
+        "ZoneID": 216,
+        "AreaID": 216,
+        "AssetBundleName": "prefab_map/d05r0114",
+        "MapName": "Spear Pillar",
+        "WarpName": "D05R0114"
+    }, {
+        "ZoneID": 217,
+        "AreaID": 217,
+        "AssetBundleName": "prefab_map/d05r0115",
+        "MapName": "Spear Pillar",
+        "WarpName": "D05R0115"
+    }, {
+        "ZoneID": 218,
+        "AreaID": 218,
+        "AssetBundleName": "prefab_map/d05r0116",
+        "MapName": "Hall of Origin",
+        "WarpName": "D05R0116"
+    }, {
+        "ZoneID": 219,
+        "AreaID": 506,
+        "AssetBundleName": "fields/safari",
+        "MapName": "Great Marsh",
+        "WarpName": "D06R0201"
+    }, {
+        "ZoneID": 220,
+        "AreaID": 506,
+        "AssetBundleName": "fields/safari",
+        "MapName": "Great Marsh",
+        "WarpName": "D06R0202"
+    }, {
+        "ZoneID": 221,
+        "AreaID": 506,
+        "AssetBundleName": "fields/safari",
+        "MapName": "Great Marsh",
+        "WarpName": "D06R0203"
+    }, {
+        "ZoneID": 222,
+        "AreaID": 506,
+        "AssetBundleName": "fields/safari",
+        "MapName": "Great Marsh",
+        "WarpName": "D06R0204"
+    }, {
+        "ZoneID": 223,
+        "AreaID": 506,
+        "AssetBundleName": "fields/safari",
+        "MapName": "Great Marsh",
+        "WarpName": "D06R0205"
+    }, {
+        "ZoneID": 224,
+        "AreaID": 506,
+        "AssetBundleName": "fields/safari",
+        "MapName": "Great Marsh",
+        "WarpName": "D06R0206"
+    }, {
+        "ZoneID": 225,
+        "AreaID": 225,
+        "AssetBundleName": "prefab_map/d07r0101",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0101"
+    }, {
+        "ZoneID": 226,
+        "AreaID": 226,
+        "AssetBundleName": "prefab_map/d07r0102",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0102"
+    }, {
+        "ZoneID": 227,
+        "AreaID": 227,
+        "AssetBundleName": "prefab_map/d07r0103",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0103"
+    }, {
+        "ZoneID": 228,
+        "AreaID": 228,
+        "AssetBundleName": "prefab_map/d07r0104",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0104"
+    }, {
+        "ZoneID": 229,
+        "AreaID": 229,
+        "AssetBundleName": "prefab_map/d07r0105",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0105"
+    }, {
+        "ZoneID": 230,
+        "AreaID": 230,
+        "AssetBundleName": "prefab_map/d07r0106",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0106"
+    }, {
+        "ZoneID": 231,
+        "AreaID": 231,
+        "AssetBundleName": "prefab_map/d07r0107",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0107"
+    }, {
+        "ZoneID": 232,
+        "AreaID": 232,
+        "AssetBundleName": "prefab_map/d07r0106",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0108"
+    }, {
+        "ZoneID": 233,
+        "AreaID": 233,
+        "AssetBundleName": "prefab_map/d07r0103",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0109"
+    }, {
+        "ZoneID": 234,
+        "AreaID": 234,
+        "AssetBundleName": "prefab_map/d07r0110",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0110"
+    }, {
+        "ZoneID": 235,
+        "AreaID": 235,
+        "AssetBundleName": "prefab_map/d07r0104",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0111"
+    }, {
+        "ZoneID": 236,
+        "AreaID": 236,
+        "AssetBundleName": "prefab_map/d07r0104",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0112"
+    }, {
+        "ZoneID": 237,
+        "AreaID": 237,
+        "AssetBundleName": "prefab_map/d07r0113",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0113"
+    }, {
+        "ZoneID": 238,
+        "AreaID": 238,
+        "AssetBundleName": "prefab_map/d07r0107",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0114"
+    }, {
+        "ZoneID": 239,
+        "AreaID": 239,
+        "AssetBundleName": "prefab_map/d07r0115",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0115"
+    }, {
+        "ZoneID": 240,
+        "AreaID": 240,
+        "AssetBundleName": "prefab_map/d07r0116",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0116"
+    }, {
+        "ZoneID": 241,
+        "AreaID": 241,
+        "AssetBundleName": "prefab_map/d07r0106",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0117"
+    }, {
+        "ZoneID": 242,
+        "AreaID": 242,
+        "AssetBundleName": "prefab_map/d07r0104",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0118"
+    }, {
+        "ZoneID": 243,
+        "AreaID": 243,
+        "AssetBundleName": "prefab_map/d07r0106",
+        "MapName": "Solaceon Ruins",
+        "WarpName": "D07R0119"
+    }, {
+        "ZoneID": 244,
+        "AreaID": 244,
+        "AssetBundleName": "prefab_map/d09r0101",
+        "MapName": "Victory Road",
+        "WarpName": "D09R0101"
+    }, {
+        "ZoneID": 245,
+        "AreaID": 245,
+        "AssetBundleName": "prefab_map/d09r0102",
+        "MapName": "Victory Road",
+        "WarpName": "D09R0102"
+    }, {
+        "ZoneID": 246,
+        "AreaID": 246,
+        "AssetBundleName": "prefab_map/d09r0103",
+        "MapName": "Victory Road",
+        "WarpName": "D09R0103"
+    }, {
+        "ZoneID": 247,
+        "AreaID": 247,
+        "AssetBundleName": "prefab_map/d09r0104",
+        "MapName": "Victory Road",
+        "WarpName": "D09R0104"
+    }, {
+        "ZoneID": 248,
+        "AreaID": 248,
+        "AssetBundleName": "prefab_map/d09r0105",
+        "MapName": "Victory Road",
+        "WarpName": "D09R0105"
+    }, {
+        "ZoneID": 249,
+        "AreaID": 249,
+        "AssetBundleName": "prefab_map/d09r0106",
+        "MapName": "Victory Road",
+        "WarpName": "D09R0106"
+    }, {
+        "ZoneID": 250,
+        "AreaID": 250,
+        "AssetBundleName": "prefab_map/d10r0101",
+        "MapName": "Ramanas Park",
+        "WarpName": "D10R0101"
+    }, {
+        "ZoneID": 251,
+        "AreaID": 251,
+        "AssetBundleName": "prefab_map/d11r0101",
+        "MapName": "Amity Square",
+        "WarpName": "D11R0101"
+    }, {
+        "ZoneID": 252,
+        "AreaID": 252,
+        "AssetBundleName": "prefab_map/d12r0101",
+        "MapName": "Ravaged Path",
+        "WarpName": "D12R0101"
+    }, {
+        "ZoneID": 253,
+        "AreaID": 253,
+        "AssetBundleName": "prefab_map/d13r0101",
+        "MapName": "Floaroma Meadow",
+        "WarpName": "D13R0101"
+    }, {
+        "ZoneID": 254,
+        "AreaID": 254,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Floaroma Meadow",
+        "WarpName": "D13R0102"
+    }, {
+        "ZoneID": 255,
+        "AreaID": 255,
+        "AssetBundleName": "prefab_map/d14r0101",
+        "MapName": "Oreburgh Gate",
+        "WarpName": "D14R0101"
+    }, {
+        "ZoneID": 256,
+        "AreaID": 256,
+        "AssetBundleName": "prefab_map/d14r0102",
+        "MapName": "Oreburgh Gate",
+        "WarpName": "D14R0102"
+    }, {
+        "ZoneID": 257,
+        "AreaID": 500,
+        "AssetBundleName": "fields/area010",
+        "MapName": "Fullmoon Island",
+        "WarpName": "D15"
+    }, {
+        "ZoneID": 258,
+        "AreaID": 258,
+        "AssetBundleName": "prefab_map/d15r0101",
+        "MapName": "Fullmoon Island",
+        "WarpName": "D15R0101"
+    }, {
+        "ZoneID": 259,
+        "AreaID": 502,
+        "AssetBundleName": "fields/area012",
+        "MapName": "Stark Mountain",
+        "WarpName": "D16"
+    }, {
+        "ZoneID": 260,
+        "AreaID": 260,
+        "AssetBundleName": "prefab_map/d16r0101",
+        "MapName": "Stark Mountain",
+        "WarpName": "D16R0101"
+    }, {
+        "ZoneID": 261,
+        "AreaID": 261,
+        "AssetBundleName": "prefab_map/d16r0102",
+        "MapName": "Stark Mountain",
+        "WarpName": "D16R0102"
+    }, {
+        "ZoneID": 262,
+        "AreaID": 262,
+        "AssetBundleName": "prefab_map/d16r0103",
+        "MapName": "Stark Mountain",
+        "WarpName": "D16R0103"
+    }, {
+        "ZoneID": 263,
+        "AreaID": 263,
+        "AssetBundleName": "prefab_map/d17r0101",
+        "MapName": "Sendoff Spring",
+        "WarpName": "D17R0101"
+    }, {
+        "ZoneID": 264,
+        "AreaID": 264,
+        "AssetBundleName": "prefab_map/d17r0102",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0102"
+    }, {
+        "ZoneID": 265,
+        "AreaID": 265,
+        "AssetBundleName": "prefab_map/d17r0103",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0103"
+    }, {
+        "ZoneID": 266,
+        "AreaID": 266,
+        "AssetBundleName": "prefab_map/d17r0104",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0104"
+    }, {
+        "ZoneID": 267,
+        "AreaID": 267,
+        "AssetBundleName": "prefab_map/d17r0105",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0105"
+    }, {
+        "ZoneID": 268,
+        "AreaID": 268,
+        "AssetBundleName": "prefab_map/d17r0105",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0106"
+    }, {
+        "ZoneID": 269,
+        "AreaID": 269,
+        "AssetBundleName": "prefab_map/d17r0107",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0107"
+    }, {
+        "ZoneID": 270,
+        "AreaID": 270,
+        "AssetBundleName": "prefab_map/d17r0107",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0108"
+    }, {
+        "ZoneID": 271,
+        "AreaID": 271,
+        "AssetBundleName": "prefab_map/d17r0109",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0109"
+    }, {
+        "ZoneID": 272,
+        "AreaID": 272,
+        "AssetBundleName": "prefab_map/d17r0109",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0110"
+    }, {
+        "ZoneID": 273,
+        "AreaID": 273,
+        "AssetBundleName": "prefab_map/d17r0105",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0111"
+    }, {
+        "ZoneID": 274,
+        "AreaID": 274,
+        "AssetBundleName": "prefab_map/d17r0105",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0112"
+    }, {
+        "ZoneID": 275,
+        "AreaID": 275,
+        "AssetBundleName": "prefab_map/d17r0107",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0113"
+    }, {
+        "ZoneID": 276,
+        "AreaID": 276,
+        "AssetBundleName": "prefab_map/d17r0107",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0114"
+    }, {
+        "ZoneID": 277,
+        "AreaID": 277,
+        "AssetBundleName": "prefab_map/d17r0109",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0115"
+    }, {
+        "ZoneID": 278,
+        "AreaID": 278,
+        "AssetBundleName": "prefab_map/d17r0109",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0116"
+    }, {
+        "ZoneID": 279,
+        "AreaID": 279,
+        "AssetBundleName": "prefab_map/d17r0105",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0117"
+    }, {
+        "ZoneID": 280,
+        "AreaID": 280,
+        "AssetBundleName": "prefab_map/d17r0105",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0118"
+    }, {
+        "ZoneID": 281,
+        "AreaID": 281,
+        "AssetBundleName": "prefab_map/d17r0107",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0119"
+    }, {
+        "ZoneID": 282,
+        "AreaID": 282,
+        "AssetBundleName": "prefab_map/d17r0107",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0120"
+    }, {
+        "ZoneID": 283,
+        "AreaID": 283,
+        "AssetBundleName": "prefab_map/d17r0109",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0121"
+    }, {
+        "ZoneID": 284,
+        "AreaID": 284,
+        "AssetBundleName": "prefab_map/d17r0109",
+        "MapName": "Turnback Cave",
+        "WarpName": "D17R0122"
+    }, {
+        "ZoneID": 285,
+        "AreaID": 498,
+        "AssetBundleName": "fields/area008",
+        "MapName": "Flower Paradise",
+        "WarpName": "D18"
+    }, {
+        "ZoneID": 286,
+        "AreaID": 286,
+        "AssetBundleName": "prefab_map/d20r0101",
+        "MapName": "Snowpoint Temple",
+        "WarpName": "D20R0101"
+    }, {
+        "ZoneID": 287,
+        "AreaID": 287,
+        "AssetBundleName": "prefab_map/d20r0102",
+        "MapName": "Snowpoint Temple",
+        "WarpName": "D20R0102"
+    }, {
+        "ZoneID": 288,
+        "AreaID": 288,
+        "AssetBundleName": "prefab_map/d20r0103",
+        "MapName": "Snowpoint Temple",
+        "WarpName": "D20R0103"
+    }, {
+        "ZoneID": 289,
+        "AreaID": 289,
+        "AssetBundleName": "prefab_map/d20r0104",
+        "MapName": "Snowpoint Temple",
+        "WarpName": "D20R0104"
+    }, {
+        "ZoneID": 290,
+        "AreaID": 290,
+        "AssetBundleName": "prefab_map/d20r0105",
+        "MapName": "Snowpoint Temple",
+        "WarpName": "D20R0105"
+    }, {
+        "ZoneID": 291,
+        "AreaID": 291,
+        "AssetBundleName": "prefab_map/d20r0106",
+        "MapName": "Snowpoint Temple",
+        "WarpName": "D20R0106"
+    }, {
+        "ZoneID": 292,
+        "AreaID": 292,
+        "AssetBundleName": "prefab_map/d21r0101",
+        "MapName": "Wayward Cave",
+        "WarpName": "D21R0101"
+    }, {
+        "ZoneID": 293,
+        "AreaID": 293,
+        "AssetBundleName": "prefab_map/d21r0102",
+        "MapName": "Wayward Cave",
+        "WarpName": "D21R0102"
+    }, {
+        "ZoneID": 294,
+        "AreaID": 294,
+        "AssetBundleName": "prefab_map/d22r0101",
+        "MapName": "Ruin Maniac Cave",
+        "WarpName": "D22R0101"
+    }, {
+        "ZoneID": 295,
+        "AreaID": 295,
+        "AssetBundleName": "prefab_map/d22r0102",
+        "MapName": "Ruin Maniac Cave",
+        "WarpName": "D22R0102"
+    }, {
+        "ZoneID": 296,
+        "AreaID": 296,
+        "AssetBundleName": "prefab_map/d22r0103",
+        "MapName": "Maniac Tunnel",
+        "WarpName": "D22R0103"
+    }, {
+        "ZoneID": 297,
+        "AreaID": 297,
+        "AssetBundleName": "prefab_map/d23r0101",
+        "MapName": "Trophy Garden",
+        "WarpName": "D23R0101"
+    }, {
+        "ZoneID": 298,
+        "AreaID": 500,
+        "AssetBundleName": "fields/area010",
+        "MapName": "Iron Island",
+        "WarpName": "D24"
+    }, {
+        "ZoneID": 299,
+        "AreaID": 299,
+        "AssetBundleName": "prefab_map/d24r0101",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0101"
+    }, {
+        "ZoneID": 300,
+        "AreaID": 300,
+        "AssetBundleName": "prefab_map/d24r0102",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0102"
+    }, {
+        "ZoneID": 301,
+        "AreaID": 301,
+        "AssetBundleName": "prefab_map/d24r0103",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0103"
+    }, {
+        "ZoneID": 302,
+        "AreaID": 302,
+        "AssetBundleName": "prefab_map/d24r0104",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0104"
+    }, {
+        "ZoneID": 303,
+        "AreaID": 303,
+        "AssetBundleName": "prefab_map/d24r0105",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0105"
+    }, {
+        "ZoneID": 304,
+        "AreaID": 304,
+        "AssetBundleName": "prefab_map/d24r0106",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0106"
+    }, {
+        "ZoneID": 305,
+        "AreaID": 305,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Iron Island",
+        "WarpName": "D24R0201"
+    }, {
+        "ZoneID": 306,
+        "AreaID": 306,
+        "AssetBundleName": "prefab_map/d25r0101",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0101"
+    }, {
+        "ZoneID": 307,
+        "AreaID": 307,
+        "AssetBundleName": "prefab_map/d25r0102",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0102"
+    }, {
+        "ZoneID": 308,
+        "AreaID": 308,
+        "AssetBundleName": "prefab_map/d25r0103",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0103"
+    }, {
+        "ZoneID": 309,
+        "AreaID": 309,
+        "AssetBundleName": "prefab_map/d25r0104",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0104"
+    }, {
+        "ZoneID": 310,
+        "AreaID": 310,
+        "AssetBundleName": "prefab_map/d25r0105",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0105"
+    }, {
+        "ZoneID": 311,
+        "AreaID": 311,
+        "AssetBundleName": "prefab_map/d25r0106",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0106"
+    }, {
+        "ZoneID": 312,
+        "AreaID": 312,
+        "AssetBundleName": "prefab_map/d25r0107",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0107"
+    }, {
+        "ZoneID": 313,
+        "AreaID": 313,
+        "AssetBundleName": "prefab_map/d25r0108",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0108"
+    }, {
+        "ZoneID": 314,
+        "AreaID": 314,
+        "AssetBundleName": "prefab_map/d25r0109",
+        "MapName": "Old Chateau",
+        "WarpName": "D25R0109"
+    }, {
+        "ZoneID": 315,
+        "AreaID": 315,
+        "AssetBundleName": "prefab_map/d26r0101",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0101"
+    }, {
+        "ZoneID": 316,
+        "AreaID": 316,
+        "AssetBundleName": "prefab_map/d26r0102",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0102"
+    }, {
+        "ZoneID": 317,
+        "AreaID": 317,
+        "AssetBundleName": "prefab_map/d26r0103",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0103"
+    }, {
+        "ZoneID": 318,
+        "AreaID": 318,
+        "AssetBundleName": "prefab_map/d26r0104",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0104"
+    }, {
+        "ZoneID": 319,
+        "AreaID": 319,
+        "AssetBundleName": "prefab_map/d26r0105",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0105"
+    }, {
+        "ZoneID": 320,
+        "AreaID": 320,
+        "AssetBundleName": "prefab_map/d26r0106",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0106"
+    }, {
+        "ZoneID": 321,
+        "AreaID": 321,
+        "AssetBundleName": "prefab_map/d26r0107",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0107"
+    }, {
+        "ZoneID": 322,
+        "AreaID": 322,
+        "AssetBundleName": "prefab_map/d26r0108",
+        "MapName": "Galactic HQ",
+        "WarpName": "D26R0108"
+    }, {
+        "ZoneID": 323,
+        "AreaID": 323,
+        "AssetBundleName": "prefab_map/d27r0101",
+        "MapName": "Lake Verity",
+        "WarpName": "D27R0101"
+    }, {
+        "ZoneID": 324,
+        "AreaID": 324,
+        "AssetBundleName": "prefab_map/d27r0102",
+        "MapName": "Lake Verity",
+        "WarpName": "D27R0102"
+    }, {
+        "ZoneID": 325,
+        "AreaID": 325,
+        "AssetBundleName": "prefab_map/d27r0103",
+        "MapName": "Verity Cavern",
+        "WarpName": "D27R0103"
+    }, {
+        "ZoneID": 326,
+        "AreaID": 326,
+        "AssetBundleName": "prefab_map/d28r0101",
+        "MapName": "Lake Valor",
+        "WarpName": "D28R0101"
+    }, {
+        "ZoneID": 327,
+        "AreaID": 327,
+        "AssetBundleName": "prefab_map/d28r0102",
+        "MapName": "Lake Valor",
+        "WarpName": "D28R0102"
+    }, {
+        "ZoneID": 328,
+        "AreaID": 328,
+        "AssetBundleName": "prefab_map/d28r0103",
+        "MapName": "Valor Cavern",
+        "WarpName": "D28R0103"
+    }, {
+        "ZoneID": 329,
+        "AreaID": 329,
+        "AssetBundleName": "prefab_map/d29r0101",
+        "MapName": "Lake Acuity",
+        "WarpName": "D29R0101"
+    }, {
+        "ZoneID": 330,
+        "AreaID": 330,
+        "AssetBundleName": "prefab_map/d29r0102",
+        "MapName": "Lake Acuity",
+        "WarpName": "D29R0102"
+    }, {
+        "ZoneID": 331,
+        "AreaID": 331,
+        "AssetBundleName": "prefab_map/d29r0103",
+        "MapName": "Acuity Cavern",
+        "WarpName": "D29R0103"
+    }, {
+        "ZoneID": 332,
+        "AreaID": 500,
+        "AssetBundleName": "fields/area010",
+        "MapName": "Newmoon Island",
+        "WarpName": "D30"
+    }, {
+        "ZoneID": 333,
+        "AreaID": 333,
+        "AssetBundleName": "prefab_map/d30r0101",
+        "MapName": "Newmoon Island",
+        "WarpName": "D30R0101"
+    }, {
+        "ZoneID": 334,
+        "AreaID": 334,
+        "AssetBundleName": "prefab_map/d31",
+        "MapName": "Battle Park",
+        "WarpName": "D31"
+    }, {
+        "ZoneID": 335,
+        "AreaID": 335,
+        "AssetBundleName": "prefab_map/d31r0101",
+        "MapName": "Battle Park",
+        "WarpName": "D31R0101"
+    }, {
+        "ZoneID": 336,
+        "AreaID": 336,
+        "AssetBundleName": "prefab_map/d31r0201",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0201"
+    }, {
+        "ZoneID": 337,
+        "AreaID": 337,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0202"
+    }, {
+        "ZoneID": 338,
+        "AreaID": 338,
+        "AssetBundleName": "prefab_map/d31r0203",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0203"
+    }, {
+        "ZoneID": 339,
+        "AreaID": 339,
+        "AssetBundleName": "",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0204"
+    }, {
+        "ZoneID": 340,
+        "AreaID": 340,
+        "AssetBundleName": "prefab_map/d31r0205",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0205"
+    }, {
+        "ZoneID": 341,
+        "AreaID": 341,
+        "AssetBundleName": "",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0206"
+    }, {
+        "ZoneID": 342,
+        "AreaID": 342,
+        "AssetBundleName": "",
+        "MapName": "Battle Tower",
+        "WarpName": "D31R0207"
+    }, {
+        "ZoneID": 343,
+        "AreaID": 343,
+        "AssetBundleName": "",
+        "MapName": "Battle Tower",
+        "WarpName": "DIRECT2"
+    }, {
+        "ZoneID": 344,
+        "AreaID": 344,
+        "AssetBundleName": "",
+        "MapName": "Battle Tower",
+        "WarpName": "DIRECT4"
+    }, {
+        "ZoneID": 345,
+        "AreaID": 345,
+        "AssetBundleName": "",
+        "MapName": "Mystery Zone",
+        "WarpName": "EVERYWHERE"
+    }, {
+        "ZoneID": 346,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Verity Lakefront",
+        "WarpName": "L01"
+    }, {
+        "ZoneID": 347,
+        "AreaID": 503,
+        "AssetBundleName": "fields/area013",
+        "MapName": "Valor Lakefront",
+        "WarpName": "L02"
+    }, {
+        "ZoneID": 348,
+        "AreaID": 348,
+        "AssetBundleName": "prefab_map/l02r0101",
+        "MapName": "Valor Lakefront",
+        "WarpName": "L02R0101"
+    }, {
+        "ZoneID": 349,
+        "AreaID": 349,
+        "AssetBundleName": "prefab_map/r213r0401",
+        "MapName": "Valor Lakefront",
+        "WarpName": "L02R0201"
+    }, {
+        "ZoneID": 350,
+        "AreaID": 350,
+        "AssetBundleName": "prefab_map/r213r0401",
+        "MapName": "Valor Lakefront",
+        "WarpName": "L02R0301"
+    }, {
+        "ZoneID": 351,
+        "AreaID": 499,
+        "AssetBundleName": "fields/area009",
+        "MapName": "Acuity Lakefront",
+        "WarpName": "L03"
+    }, {
+        "ZoneID": 352,
+        "AreaID": 503,
+        "AssetBundleName": "fields/area013",
+        "MapName": "Spring Path",
+        "WarpName": "L04"
+    }, {
+        "ZoneID": 353,
+        "AreaID": 353,
+        "AssetBundleName": "",
+        "MapName": "Mystery Zone",
+        "WarpName": "NOTHING"
+    }, {
+        "ZoneID": 354,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 201",
+        "WarpName": "R201"
+    }, {
+        "ZoneID": 355,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 202",
+        "WarpName": "R202"
+    }, {
+        "ZoneID": 356,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 203",
+        "WarpName": "R203"
+    }, {
+        "ZoneID": 357,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 204",
+        "WarpName": "R204A"
+    }, {
+        "ZoneID": 358,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Route 204",
+        "WarpName": "R204B"
+    }, {
+        "ZoneID": 359,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Route 205",
+        "WarpName": "R205A"
+    }, {
+        "ZoneID": 360,
+        "AreaID": 360,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Route 205",
+        "WarpName": "R205AR0101"
+    }, {
+        "ZoneID": 361,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Route 205",
+        "WarpName": "R205B"
+    }, {
+        "ZoneID": 362,
+        "AreaID": 492,
+        "AssetBundleName": "fields/area002",
+        "MapName": "Route 206",
+        "WarpName": "R206"
+    }, {
+        "ZoneID": 363,
+        "AreaID": 363,
+        "AssetBundleName": "prefab_map/r206r0101",
+        "MapName": "Route 206",
+        "WarpName": "R206R0101"
+    }, {
+        "ZoneID": 364,
+        "AreaID": 492,
+        "AssetBundleName": "fields/area002",
+        "MapName": "Route 207",
+        "WarpName": "R207"
+    }, {
+        "ZoneID": 365,
+        "AreaID": 494,
+        "AssetBundleName": "fields/area004",
+        "MapName": "Route 208",
+        "WarpName": "R208"
+    }, {
+        "ZoneID": 366,
+        "AreaID": 366,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Route 208",
+        "WarpName": "R208R0101"
+    }, {
+        "ZoneID": 367,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Route 209",
+        "WarpName": "R209"
+    }, {
+        "ZoneID": 368,
+        "AreaID": 368,
+        "AssetBundleName": "prefab_map/r209r0101",
+        "MapName": "Route 209",
+        "WarpName": "R209R0101"
+    }, {
+        "ZoneID": 369,
+        "AreaID": 369,
+        "AssetBundleName": "prefab_map/r209r0102",
+        "MapName": "Route 209",
+        "WarpName": "R209R0102"
+    }, {
+        "ZoneID": 370,
+        "AreaID": 370,
+        "AssetBundleName": "prefab_map/r209r0103",
+        "MapName": "Route 209",
+        "WarpName": "R209R0103"
+    }, {
+        "ZoneID": 371,
+        "AreaID": 371,
+        "AssetBundleName": "prefab_map/r209r0104",
+        "MapName": "Route 209",
+        "WarpName": "R209R0104"
+    }, {
+        "ZoneID": 372,
+        "AreaID": 372,
+        "AssetBundleName": "prefab_map/r209r0105",
+        "MapName": "Route 209",
+        "WarpName": "R209R0105"
+    }, {
+        "ZoneID": 373,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Route 210",
+        "WarpName": "R210A"
+    }, {
+        "ZoneID": 374,
+        "AreaID": 374,
+        "AssetBundleName": "prefab_map/r210ar0101",
+        "MapName": "Route 210",
+        "WarpName": "R210AR0101"
+    }, {
+        "ZoneID": 375,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Route 210",
+        "WarpName": "R210B"
+    }, {
+        "ZoneID": 376,
+        "AreaID": 376,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Route 210",
+        "WarpName": "R210BR0101"
+    }, {
+        "ZoneID": 377,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Route 211",
+        "WarpName": "R211A"
+    }, {
+        "ZoneID": 378,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Route 211",
+        "WarpName": "R211B"
+    }, {
+        "ZoneID": 379,
+        "AreaID": 497,
+        "AssetBundleName": "fields/area007",
+        "MapName": "Route 212",
+        "WarpName": "R212A"
+    }, {
+        "ZoneID": 380,
+        "AreaID": 380,
+        "AssetBundleName": "prefab_map/r212ar0101",
+        "MapName": "Route 212",
+        "WarpName": "R212AR0101"
+    }, {
+        "ZoneID": 381,
+        "AreaID": 381,
+        "AssetBundleName": "prefab_map/r212ar0102",
+        "MapName": "Route 212",
+        "WarpName": "R212AR0102"
+    }, {
+        "ZoneID": 382,
+        "AreaID": 382,
+        "AssetBundleName": "prefab_map/r212ar0103",
+        "MapName": "Route 212",
+        "WarpName": "R212AR0103"
+    }, {
+        "ZoneID": 383,
+        "AreaID": 497,
+        "AssetBundleName": "fields/area007",
+        "MapName": "Route 212",
+        "WarpName": "R212B"
+    }, {
+        "ZoneID": 384,
+        "AreaID": 384,
+        "AssetBundleName": "prefab_map/c04r0801",
+        "MapName": "Route 212",
+        "WarpName": "R212BR0101"
+    }, {
+        "ZoneID": 385,
+        "AreaID": 503,
+        "AssetBundleName": "fields/area013",
+        "MapName": "Route 213",
+        "WarpName": "R213"
+    }, {
+        "ZoneID": 386,
+        "AreaID": 386,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Route 213",
+        "WarpName": "R213R0101"
+    }, {
+        "ZoneID": 387,
+        "AreaID": 387,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Route 213",
+        "WarpName": "R213R0201"
+    }, {
+        "ZoneID": 388,
+        "AreaID": 388,
+        "AssetBundleName": "prefab_map/r213r0301",
+        "MapName": "Route 213",
+        "WarpName": "R213R0301"
+    }, {
+        "ZoneID": 389,
+        "AreaID": 389,
+        "AssetBundleName": "prefab_map/r213r0401",
+        "MapName": "Route 213",
+        "WarpName": "R213R0401"
+    }, {
+        "ZoneID": 390,
+        "AreaID": 390,
+        "AssetBundleName": "prefab_map/r213r0401",
+        "MapName": "Route 213",
+        "WarpName": "R213R0501"
+    }, {
+        "ZoneID": 391,
+        "AreaID": 391,
+        "AssetBundleName": "prefab_map/r213r0401",
+        "MapName": "Route 213",
+        "WarpName": "R213R0601"
+    }, {
+        "ZoneID": 392,
+        "AreaID": 503,
+        "AssetBundleName": "fields/area013",
+        "MapName": "Route 214",
+        "WarpName": "R214"
+    }, {
+        "ZoneID": 393,
+        "AreaID": 393,
+        "AssetBundleName": "prefab_map/c05r0301",
+        "MapName": "Route 214",
+        "WarpName": "R214R0101"
+    }, {
+        "ZoneID": 394,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Route 215",
+        "WarpName": "R215"
+    }, {
+        "ZoneID": 395,
+        "AreaID": 499,
+        "AssetBundleName": "fields/area009",
+        "MapName": "Route 216",
+        "WarpName": "R216"
+    }, {
+        "ZoneID": 396,
+        "AreaID": 396,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Route 216",
+        "WarpName": "R216R0101"
+    }, {
+        "ZoneID": 397,
+        "AreaID": 499,
+        "AssetBundleName": "fields/area009",
+        "MapName": "Route 217",
+        "WarpName": "R217"
+    }, {
+        "ZoneID": 398,
+        "AreaID": 398,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Route 217",
+        "WarpName": "R217R0101"
+    }, {
+        "ZoneID": 399,
+        "AreaID": 399,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Route 217",
+        "WarpName": "R217R0201"
+    }, {
+        "ZoneID": 400,
+        "AreaID": 500,
+        "AssetBundleName": "fields/area010",
+        "MapName": "Route 218",
+        "WarpName": "R218"
+    }, {
+        "ZoneID": 401,
+        "AreaID": 401,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Route 218",
+        "WarpName": "R218R0101"
+    }, {
+        "ZoneID": 402,
+        "AreaID": 402,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Route 218",
+        "WarpName": "R218R0201"
+    }, {
+        "ZoneID": 403,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 219",
+        "WarpName": "R219"
+    }, {
+        "ZoneID": 404,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 221",
+        "WarpName": "R221"
+    }, {
+        "ZoneID": 405,
+        "AreaID": 405,
+        "AssetBundleName": "prefab_map/r221r0101",
+        "MapName": "Ramanas Park",
+        "WarpName": "R221R0101"
+    }, {
+        "ZoneID": 406,
+        "AreaID": 406,
+        "AssetBundleName": "prefab_map/c04r0801",
+        "MapName": "Route 221",
+        "WarpName": "R221R0201"
+    }, {
+        "ZoneID": 407,
+        "AreaID": 503,
+        "AssetBundleName": "fields/area013",
+        "MapName": "Route 222",
+        "WarpName": "R222"
+    }, {
+        "ZoneID": 408,
+        "AreaID": 408,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Route 222",
+        "WarpName": "R222R0101"
+    }, {
+        "ZoneID": 409,
+        "AreaID": 409,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Route 222",
+        "WarpName": "R222R0201"
+    }, {
+        "ZoneID": 410,
+        "AreaID": 410,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Route 222",
+        "WarpName": "R222R0301"
+    }, {
+        "ZoneID": 411,
+        "AreaID": 498,
+        "AssetBundleName": "fields/area008",
+        "MapName": "Route 224",
+        "WarpName": "R224"
+    }, {
+        "ZoneID": 412,
+        "AreaID": 502,
+        "AssetBundleName": "fields/area012",
+        "MapName": "Route 225",
+        "WarpName": "R225"
+    }, {
+        "ZoneID": 413,
+        "AreaID": 413,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Route 225",
+        "WarpName": "R225R0101"
+    }, {
+        "ZoneID": 414,
+        "AreaID": 502,
+        "AssetBundleName": "fields/area012",
+        "MapName": "Route 227",
+        "WarpName": "R227"
+    }, {
+        "ZoneID": 415,
+        "AreaID": 415,
+        "AssetBundleName": "prefab_map/c02r0501",
+        "MapName": "Route 227",
+        "WarpName": "R227R0101"
+    }, {
+        "ZoneID": 416,
+        "AreaID": 504,
+        "AssetBundleName": "fields/area014",
+        "MapName": "Route 228",
+        "WarpName": "R228"
+    }, {
+        "ZoneID": 417,
+        "AreaID": 417,
+        "AssetBundleName": "prefab_map/r218r0101",
+        "MapName": "Route 228",
+        "WarpName": "R228R0101"
+    }, {
+        "ZoneID": 418,
+        "AreaID": 418,
+        "AssetBundleName": "prefab_map/c04r0801",
+        "MapName": "Route 228",
+        "WarpName": "R228R0201"
+    }, {
+        "ZoneID": 419,
+        "AreaID": 419,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Route 228",
+        "WarpName": "R228R0301"
+    }, {
+        "ZoneID": 420,
+        "AreaID": 504,
+        "AssetBundleName": "fields/area014",
+        "MapName": "Route 229",
+        "WarpName": "R229"
+    }, {
+        "ZoneID": 421,
+        "AreaID": 421,
+        "AssetBundleName": "",
+        "MapName": "Mystery Zone",
+        "WarpName": "RECORD"
+    }, {
+        "ZoneID": 422,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01"
+    }, {
+        "ZoneID": 423,
+        "AreaID": 423,
+        "AssetBundleName": "prefab_map/t01r0101",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01R0101"
+    }, {
+        "ZoneID": 424,
+        "AreaID": 424,
+        "AssetBundleName": "prefab_map/t01r0102",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01R0102"
+    }, {
+        "ZoneID": 425,
+        "AreaID": 425,
+        "AssetBundleName": "prefab_map/t01r0201",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01R0201"
+    }, {
+        "ZoneID": 426,
+        "AreaID": 426,
+        "AssetBundleName": "prefab_map/t01r0202",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01R0202"
+    }, {
+        "ZoneID": 427,
+        "AreaID": 427,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01R0301"
+    }, {
+        "ZoneID": 428,
+        "AreaID": 428,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Twinleaf Town",
+        "WarpName": "T01R0401"
+    }, {
+        "ZoneID": 429,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02"
+    }, {
+        "ZoneID": 430,
+        "AreaID": 430,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02FS0101"
+    }, {
+        "ZoneID": 431,
+        "AreaID": 431,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02PC0101"
+    }, {
+        "ZoneID": 432,
+        "AreaID": 432,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02PC0102"
+    }, {
+        "ZoneID": 433,
+        "AreaID": 433,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02PC0103"
+    }, {
+        "ZoneID": 434,
+        "AreaID": 434,
+        "AssetBundleName": "prefab_map/t02r0101",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02R0101"
+    }, {
+        "ZoneID": 435,
+        "AreaID": 435,
+        "AssetBundleName": "prefab_map/t02r0201",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02R0201"
+    }, {
+        "ZoneID": 436,
+        "AreaID": 436,
+        "AssetBundleName": "prefab_map/t02r0202",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02R0202"
+    }, {
+        "ZoneID": 437,
+        "AreaID": 437,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Sandgem Town",
+        "WarpName": "T02R0301"
+    }, {
+        "ZoneID": 438,
+        "AreaID": 493,
+        "AssetBundleName": "fields/area003",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03"
+    }, {
+        "ZoneID": 439,
+        "AreaID": 439,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03FS0101"
+    }, {
+        "ZoneID": 440,
+        "AreaID": 440,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03PC0101"
+    }, {
+        "ZoneID": 441,
+        "AreaID": 441,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03PC0102"
+    }, {
+        "ZoneID": 442,
+        "AreaID": 442,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03PC0103"
+    }, {
+        "ZoneID": 443,
+        "AreaID": 443,
+        "AssetBundleName": "prefab_map/t03r0101",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03R0101"
+    }, {
+        "ZoneID": 444,
+        "AreaID": 444,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03R0201"
+    }, {
+        "ZoneID": 445,
+        "AreaID": 445,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Floaroma Town",
+        "WarpName": "T03R0301"
+    }, {
+        "ZoneID": 446,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04"
+    }, {
+        "ZoneID": 447,
+        "AreaID": 447,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04FS0101"
+    }, {
+        "ZoneID": 448,
+        "AreaID": 448,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04PC0101"
+    }, {
+        "ZoneID": 449,
+        "AreaID": 449,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04PC0102"
+    }, {
+        "ZoneID": 450,
+        "AreaID": 450,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04PC0103"
+    }, {
+        "ZoneID": 451,
+        "AreaID": 451,
+        "AssetBundleName": "prefab_map/t04r0101",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04R0101"
+    }, {
+        "ZoneID": 452,
+        "AreaID": 452,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04R0201"
+    }, {
+        "ZoneID": 453,
+        "AreaID": 453,
+        "AssetBundleName": "prefab_map/t04r0301",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04R0301"
+    }, {
+        "ZoneID": 454,
+        "AreaID": 454,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04R0401"
+    }, {
+        "ZoneID": 455,
+        "AreaID": 455,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Solaceon Town",
+        "WarpName": "T04R0501"
+    }, {
+        "ZoneID": 456,
+        "AreaID": 495,
+        "AssetBundleName": "fields/area005",
+        "MapName": "Celestic Town",
+        "WarpName": "T05"
+    }, {
+        "ZoneID": 457,
+        "AreaID": 457,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Celestic Town",
+        "WarpName": "T05PC0101"
+    }, {
+        "ZoneID": 458,
+        "AreaID": 458,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Celestic Town",
+        "WarpName": "T05PC0102"
+    }, {
+        "ZoneID": 459,
+        "AreaID": 459,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Celestic Town",
+        "WarpName": "T05PC0103"
+    }, {
+        "ZoneID": 460,
+        "AreaID": 460,
+        "AssetBundleName": "prefab_map/t05r0101",
+        "MapName": "Celestic Town",
+        "WarpName": "T05R0101"
+    }, {
+        "ZoneID": 461,
+        "AreaID": 461,
+        "AssetBundleName": "prefab_map/c04r0501",
+        "MapName": "Celestic Town",
+        "WarpName": "T05R0201"
+    }, {
+        "ZoneID": 462,
+        "AreaID": 462,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Celestic Town",
+        "WarpName": "T05R0301"
+    }, {
+        "ZoneID": 463,
+        "AreaID": 463,
+        "AssetBundleName": "prefab_map/c04r0701",
+        "MapName": "Celestic Town",
+        "WarpName": "T05R0401"
+    }, {
+        "ZoneID": 464,
+        "AreaID": 464,
+        "AssetBundleName": "prefab_map/t05r0501",
+        "MapName": "Celestic Town",
+        "WarpName": "T05R0501"
+    }, {
+        "ZoneID": 465,
+        "AreaID": 502,
+        "AssetBundleName": "fields/area012",
+        "MapName": "Survival Area",
+        "WarpName": "T06"
+    }, {
+        "ZoneID": 466,
+        "AreaID": 466,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Survival Area",
+        "WarpName": "T06FS0101"
+    }, {
+        "ZoneID": 467,
+        "AreaID": 467,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Survival Area",
+        "WarpName": "T06PC0101"
+    }, {
+        "ZoneID": 468,
+        "AreaID": 468,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Survival Area",
+        "WarpName": "T06PC0102"
+    }, {
+        "ZoneID": 469,
+        "AreaID": 469,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Survival Area",
+        "WarpName": "T06PC0103"
+    }, {
+        "ZoneID": 470,
+        "AreaID": 470,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Survival Area",
+        "WarpName": "T06R0101"
+    }, {
+        "ZoneID": 471,
+        "AreaID": 471,
+        "AssetBundleName": "prefab_map/c05r0901",
+        "MapName": "Survival Area",
+        "WarpName": "T06R0201"
+    }, {
+        "ZoneID": 472,
+        "AreaID": 472,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Survival Area",
+        "WarpName": "T06R0301"
+    }, {
+        "ZoneID": 473,
+        "AreaID": 504,
+        "AssetBundleName": "fields/area014",
+        "MapName": "Resort Area",
+        "WarpName": "T07"
+    }, {
+        "ZoneID": 474,
+        "AreaID": 474,
+        "AssetBundleName": "prefab_map/t02fs0101",
+        "MapName": "Resort Area",
+        "WarpName": "T07FS0101"
+    }, {
+        "ZoneID": 475,
+        "AreaID": 475,
+        "AssetBundleName": "prefab_map/t02pc0101",
+        "MapName": "Resort Area",
+        "WarpName": "T07PC0101"
+    }, {
+        "ZoneID": 476,
+        "AreaID": 476,
+        "AssetBundleName": "prefab_map/t02pc0102",
+        "MapName": "Resort Area",
+        "WarpName": "T07PC0102"
+    }, {
+        "ZoneID": 477,
+        "AreaID": 477,
+        "AssetBundleName": "prefab_map/t02pc0103",
+        "MapName": "Resort Area",
+        "WarpName": "T07PC0103"
+    }, {
+        "ZoneID": 478,
+        "AreaID": 478,
+        "AssetBundleName": "prefab_map/t07r0101",
+        "MapName": "Resort Area",
+        "WarpName": "T07R0101"
+    }, {
+        "ZoneID": 479,
+        "AreaID": 479,
+        "AssetBundleName": "prefab_map/t07r0102",
+        "MapName": "Resort Area",
+        "WarpName": "T07R0102"
+    }, {
+        "ZoneID": 480,
+        "AreaID": 480,
+        "AssetBundleName": "prefab_map/c01r0208",
+        "MapName": "Resort Area",
+        "WarpName": "T07R0103"
+    }, {
+        "ZoneID": 481,
+        "AreaID": 481,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Resort Area",
+        "WarpName": "T07R0201"
+    }, {
+        "ZoneID": 482,
+        "AreaID": 482,
+        "AssetBundleName": "prefab_map/t01r0301",
+        "MapName": "Resort Area",
+        "WarpName": "T07R0301"
+    }, {
+        "ZoneID": 483,
+        "AreaID": 483,
+        "AssetBundleName": "",
+        "MapName": "Mystery Zone",
+        "WarpName": "UG"
+    }, {
+        "ZoneID": 484,
+        "AreaID": 484,
+        "AssetBundleName": "",
+        "MapName": "Mystery Zone",
+        "WarpName": "UNION"
+    }, {
+        "ZoneID": 485,
+        "AreaID": 491,
+        "AssetBundleName": "fields/area001",
+        "MapName": "Route 220",
+        "WarpName": "W220"
+    }, {
+        "ZoneID": 486,
+        "AreaID": 498,
+        "AssetBundleName": "fields/area008",
+        "MapName": "Route 223",
+        "WarpName": "W223"
+    }, {
+        "ZoneID": 487,
+        "AreaID": 502,
+        "AssetBundleName": "fields/area012",
+        "MapName": "Route 226",
+        "WarpName": "W226"
+    }, {
+        "ZoneID": 488,
+        "AreaID": 488,
+        "AssetBundleName": "prefab_map/c04r0801",
+        "MapName": "Route 226",
+        "WarpName": "W226R0101"
+    }, {
+        "ZoneID": 489,
+        "AreaID": 504,
+        "AssetBundleName": "fields/area014",
+        "MapName": "Route 230",
+        "WarpName": "W230"
+    }, {
+        "ZoneID": 490,
+        "AreaID": 498,
+        "AssetBundleName": "fields/area008",
+        "MapName": "Seabreak Path",
+        "WarpName": "W231"
+    }, {
+        "ZoneID": 491,
+        "AreaID": 507,
+        "AssetBundleName": "prefab_map/union01",
+        "MapName": "Mystery Zone",
+        "WarpName": "UNION01"
+    }, {
+        "ZoneID": 492,
+        "AreaID": 508,
+        "AssetBundleName": "prefab_map/union02",
+        "MapName": "Mystery Zone",
+        "WarpName": "UNION02"
+    }, {
+        "ZoneID": 493,
+        "AreaID": 509,
+        "AssetBundleName": "prefab_map/union03",
+        "MapName": "Mystery Zone",
+        "WarpName": "UNION03"
+    }, {
+        "ZoneID": 494,
+        "AreaID": 510,
+        "AssetBundleName": "prefab_map/c04r0205",
+        "MapName": "Eterna City",
+        "WarpName": "C04R0205"
+    }, {
+        "ZoneID": 495,
+        "AreaID": 511,
+        "AssetBundleName": "prefab_map/d10r0201",
+        "MapName": "Ramanas Park",
+        "WarpName": "D10R0201"
+    }, {
+        "ZoneID": 496,
+        "AreaID": 512,
+        "AssetBundleName": "prefab_map/d10r0202",
+        "MapName": "Discovery Room",
+        "WarpName": "D10R0202"
+    }, {
+        "ZoneID": 497,
+        "AreaID": 513,
+        "AssetBundleName": "prefab_map/d10r0301",
+        "MapName": "Kanto Room",
+        "WarpName": "D10R0301"
+    }, {
+        "ZoneID": 498,
+        "AreaID": 514,
+        "AssetBundleName": "prefab_map/d10r0302",
+        "MapName": "Johto Room",
+        "WarpName": "D10R0302"
+    }, {
+        "ZoneID": 499,
+        "AreaID": 515,
+        "AssetBundleName": "prefab_map/d10r0303",
+        "MapName": "Soul Room",
+        "WarpName": "D10R0303"
+    }, {
+        "ZoneID": 500,
+        "AreaID": 516,
+        "AssetBundleName": "prefab_map/d10r0401",
+        "MapName": "Tectonic Room",
+        "WarpName": "D10R0401"
+    }, {
+        "ZoneID": 501,
+        "AreaID": 517,
+        "AssetBundleName": "prefab_map/d10r0402",
+        "MapName": "Oceanic Room",
+        "WarpName": "D10R0402"
+    }, {
+        "ZoneID": 502,
+        "AreaID": 518,
+        "AssetBundleName": "prefab_map/d10r0403",
+        "MapName": "Stratospheric Room",
+        "WarpName": "D10R0403"
+    }, {
+        "ZoneID": 503,
+        "AreaID": 519,
+        "AssetBundleName": "prefab_map/d10r0501",
+        "MapName": "Rainbow Room",
+        "WarpName": "D10R0501"
+    }, {
+        "ZoneID": 504,
+        "AreaID": 520,
+        "AssetBundleName": "prefab_map/d10r0502",
+        "MapName": "Squall Room",
+        "WarpName": "D10R0502"
+    }, {
+        "ZoneID": 505,
+        "AreaID": 521,
+        "AssetBundleName": "prefab_map/d10r0601",
+        "MapName": "Genome Room",
+        "WarpName": "D10R0601"
+    }, {
+        "ZoneID": 506,
+        "AreaID": 522,
+        "AssetBundleName": "prefab_map/d10r0701",
+        "MapName": "Pure Space",
+        "WarpName": "D10R0701"
+    }, {
+        "ZoneID": 507,
+        "AreaID": 523,
+        "AssetBundleName": "prefab_map/d10r0801",
+        "MapName": "Strange Space",
+        "WarpName": "D10R0801"
+    }, {
+        "ZoneID": 508,
+        "AreaID": 524,
+        "AssetBundleName": "underground/uga01",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA01"
+    }, {
+        "ZoneID": 509,
+        "AreaID": 525,
+        "AssetBundleName": "underground/uga02",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA02"
+    }, {
+        "ZoneID": 510,
+        "AreaID": 526,
+        "AssetBundleName": "underground/uga03",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA03"
+    }, {
+        "ZoneID": 511,
+        "AreaID": 527,
+        "AssetBundleName": "underground/uga04",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA04"
+    }, {
+        "ZoneID": 512,
+        "AreaID": 528,
+        "AssetBundleName": "underground/uga05",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA05"
+    }, {
+        "ZoneID": 513,
+        "AreaID": 529,
+        "AssetBundleName": "underground/uga06",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA06"
+    }, {
+        "ZoneID": 514,
+        "AreaID": 530,
+        "AssetBundleName": "underground/uga07",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA07"
+    }, {
+        "ZoneID": 515,
+        "AreaID": 531,
+        "AssetBundleName": "underground/uga08",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA08"
+    }, {
+        "ZoneID": 516,
+        "AreaID": 532,
+        "AssetBundleName": "underground/uga09",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA09"
+    }, {
+        "ZoneID": 517,
+        "AreaID": 533,
+        "AssetBundleName": "underground/uga10",
+        "MapName": "Grand Underground",
+        "WarpName": "UGA10"
+    }, {
+        "ZoneID": 518,
+        "AreaID": 534,
+        "AssetBundleName": "underground/ugb01",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB01"
+    }, {
+        "ZoneID": 519,
+        "AreaID": 535,
+        "AssetBundleName": "underground/ugb02",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB02"
+    }, {
+        "ZoneID": 520,
+        "AreaID": 536,
+        "AssetBundleName": "underground/ugb03",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB03"
+    }, {
+        "ZoneID": 521,
+        "AreaID": 537,
+        "AssetBundleName": "underground/ugb04",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB04"
+    }, {
+        "ZoneID": 522,
+        "AreaID": 538,
+        "AssetBundleName": "underground/ugb05",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB05"
+    }, {
+        "ZoneID": 523,
+        "AreaID": 539,
+        "AssetBundleName": "underground/ugb06",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB06"
+    }, {
+        "ZoneID": 524,
+        "AreaID": 540,
+        "AssetBundleName": "underground/ugb07",
+        "MapName": "Grand Underground",
+        "WarpName": "UGB07"
+    }, {
+        "ZoneID": 525,
+        "AreaID": 541,
+        "AssetBundleName": "underground/ugc01",
+        "MapName": "Grand Underground",
+        "WarpName": "UGC01"
+    }, {
+        "ZoneID": 526,
+        "AreaID": 542,
+        "AssetBundleName": "underground/ugd01",
+        "MapName": "Grand Underground",
+        "WarpName": "UGD01"
+    }, {
+        "ZoneID": 527,
+        "AreaID": 543,
+        "AssetBundleName": "underground/ugd02",
+        "MapName": "Grand Underground",
+        "WarpName": "UGD02"
+    }, {
+        "ZoneID": 528,
+        "AreaID": 544,
+        "AssetBundleName": "underground/ugd03",
+        "MapName": "Grand Underground",
+        "WarpName": "UGD03"
+    }, {
+        "ZoneID": 529,
+        "AreaID": 545,
+        "AssetBundleName": "underground/ugd04",
+        "MapName": "Grand Underground",
+        "WarpName": "UGD04"
+    }, {
+        "ZoneID": 530,
+        "AreaID": 546,
+        "AssetBundleName": "underground/ugd05",
+        "MapName": "Grand Underground",
+        "WarpName": "UGD05"
+    }, {
+        "ZoneID": 531,
+        "AreaID": 547,
+        "AssetBundleName": "underground/uge01",
+        "MapName": "Grand Underground",
+        "WarpName": "UGE01"
+    }, {
+        "ZoneID": 532,
+        "AreaID": 548,
+        "AssetBundleName": "underground/uge02",
+        "MapName": "Grand Underground",
+        "WarpName": "UGE02"
+    }, {
+        "ZoneID": 533,
+        "AreaID": 549,
+        "AssetBundleName": "underground/uge03",
+        "MapName": "Grand Underground",
+        "WarpName": "UGE03"
+    }, {
+        "ZoneID": 534,
+        "AreaID": 550,
+        "AssetBundleName": "underground/uge04",
+        "MapName": "Grand Underground",
+        "WarpName": "UGE04"
+    }, {
+        "ZoneID": 535,
+        "AreaID": 551,
+        "AssetBundleName": "underground/uge05",
+        "MapName": "Grand Underground",
+        "WarpName": "UGE05"
+    }, {
+        "ZoneID": 536,
+        "AreaID": 552,
+        "AssetBundleName": "underground/ugf01",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF01"
+    }, {
+        "ZoneID": 537,
+        "AreaID": 553,
+        "AssetBundleName": "underground/ugf02",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF02"
+    }, {
+        "ZoneID": 538,
+        "AreaID": 554,
+        "AssetBundleName": "underground/ugf03",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF03"
+    }, {
+        "ZoneID": 539,
+        "AreaID": 555,
+        "AssetBundleName": "underground/ugf04",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF04"
+    }, {
+        "ZoneID": 540,
+        "AreaID": 556,
+        "AssetBundleName": "underground/ugf05",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF05"
+    }, {
+        "ZoneID": 541,
+        "AreaID": 557,
+        "AssetBundleName": "underground/ugf06",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF06"
+    }, {
+        "ZoneID": 542,
+        "AreaID": 558,
+        "AssetBundleName": "underground/ugf07",
+        "MapName": "Grand Underground",
+        "WarpName": "UGF07"
+    }, {
+        "ZoneID": 543,
+        "AreaID": 559,
+        "AssetBundleName": "underground/ugspace01",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE01"
+    }, {
+        "ZoneID": 544,
+        "AreaID": 560,
+        "AssetBundleName": "underground/ugspace02",
+        "MapName": "Grassland Cave",
+        "WarpName": "UGSPACE02"
+    }, {
+        "ZoneID": 545,
+        "AreaID": 561,
+        "AssetBundleName": "underground/ugspace03",
+        "MapName": "Riverbank Cave",
+        "WarpName": "UGSPACE03"
+    }, {
+        "ZoneID": 546,
+        "AreaID": 562,
+        "AssetBundleName": "underground/ugspace04",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE04"
+    }, {
+        "ZoneID": 547,
+        "AreaID": 563,
+        "AssetBundleName": "underground/ugspace05",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE05"
+    }, {
+        "ZoneID": 548,
+        "AreaID": 564,
+        "AssetBundleName": "underground/ugspace06",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE06"
+    }, {
+        "ZoneID": 549,
+        "AreaID": 565,
+        "AssetBundleName": "underground/ugspace02",
+        "MapName": "Grassland Cave",
+        "WarpName": "UGSPACE07"
+    }, {
+        "ZoneID": 550,
+        "AreaID": 566,
+        "AssetBundleName": "underground/ugspace08",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE08"
+    }, {
+        "ZoneID": 551,
+        "AreaID": 567,
+        "AssetBundleName": "underground/ugspace09",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE09"
+    }, {
+        "ZoneID": 552,
+        "AreaID": 568,
+        "AssetBundleName": "underground/ugspace10",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE10"
+    }, {
+        "ZoneID": 553,
+        "AreaID": 569,
+        "AssetBundleName": "underground/ugspace11",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE11"
+    }, {
+        "ZoneID": 554,
+        "AreaID": 570,
+        "AssetBundleName": "underground/ugspace12",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE12"
+    }, {
+        "ZoneID": 555,
+        "AreaID": 571,
+        "AssetBundleName": "underground/ugspace12",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE13"
+    }, {
+        "ZoneID": 556,
+        "AreaID": 572,
+        "AssetBundleName": "underground/ugspace14",
+        "MapName": "Rocky Cave",
+        "WarpName": "UGSPACE14"
+    }, {
+        "ZoneID": 557,
+        "AreaID": 573,
+        "AssetBundleName": "underground/ugspace15",
+        "MapName": "Volcanic Cave",
+        "WarpName": "UGSPACE15"
+    }, {
+        "ZoneID": 558,
+        "AreaID": 574,
+        "AssetBundleName": "underground/ugspace16",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE16"
+    }, {
+        "ZoneID": 559,
+        "AreaID": 575,
+        "AssetBundleName": "underground/ugspace17",
+        "MapName": "Rocky Cave",
+        "WarpName": "UGSPACE17"
+    }, {
+        "ZoneID": 560,
+        "AreaID": 576,
+        "AssetBundleName": "underground/ugspace18",
+        "MapName": "Volcanic Cave",
+        "WarpName": "UGSPACE18"
+    }, {
+        "ZoneID": 561,
+        "AreaID": 577,
+        "AssetBundleName": "underground/ugspace19",
+        "MapName": "Dazzling Cave",
+        "WarpName": "UGSPACE19"
+    }, {
+        "ZoneID": 562,
+        "AreaID": 578,
+        "AssetBundleName": "underground/ugspace20",
+        "MapName": "Sandsear Cave",
+        "WarpName": "UGSPACE20"
+    }, {
+        "ZoneID": 563,
+        "AreaID": 579,
+        "AssetBundleName": "underground/ugspace04",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE21"
+    }, {
+        "ZoneID": 564,
+        "AreaID": 580,
+        "AssetBundleName": "underground/ugspace01",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE22"
+    }, {
+        "ZoneID": 565,
+        "AreaID": 581,
+        "AssetBundleName": "underground/ugspace23",
+        "MapName": "Rocky Cave",
+        "WarpName": "UGSPACE23"
+    }, {
+        "ZoneID": 566,
+        "AreaID": 582,
+        "AssetBundleName": "underground/ugspace24",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE24"
+    }, {
+        "ZoneID": 567,
+        "AreaID": 583,
+        "AssetBundleName": "underground/ugspace25",
+        "MapName": "Grassland Cave",
+        "WarpName": "UGSPACE25"
+    }, {
+        "ZoneID": 568,
+        "AreaID": 584,
+        "AssetBundleName": "underground/ugspace26",
+        "MapName": "Riverbank Cave",
+        "WarpName": "UGSPACE26"
+    }, {
+        "ZoneID": 569,
+        "AreaID": 585,
+        "AssetBundleName": "underground/ugspace09",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE27"
+    }, {
+        "ZoneID": 570,
+        "AreaID": 586,
+        "AssetBundleName": "underground/ugspace28",
+        "MapName": "Grassland Cave",
+        "WarpName": "UGSPACE28"
+    }, {
+        "ZoneID": 571,
+        "AreaID": 587,
+        "AssetBundleName": "underground/ugspace29",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE29"
+    }, {
+        "ZoneID": 572,
+        "AreaID": 588,
+        "AssetBundleName": "underground/ugspace30",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE30"
+    }, {
+        "ZoneID": 573,
+        "AreaID": 589,
+        "AssetBundleName": "underground/ugspace31",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE31"
+    }, {
+        "ZoneID": 574,
+        "AreaID": 590,
+        "AssetBundleName": "underground/ugspace32",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE32"
+    }, {
+        "ZoneID": 575,
+        "AreaID": 591,
+        "AssetBundleName": "underground/ugspace31",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE33"
+    }, {
+        "ZoneID": 576,
+        "AreaID": 592,
+        "AssetBundleName": "underground/ugspace06",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE34"
+    }, {
+        "ZoneID": 577,
+        "AreaID": 593,
+        "AssetBundleName": "underground/ugspace35",
+        "MapName": "Riverbank Cave",
+        "WarpName": "UGSPACE35"
+    }, {
+        "ZoneID": 578,
+        "AreaID": 594,
+        "AssetBundleName": "underground/ugspace36",
+        "MapName": "Icy Cave",
+        "WarpName": "UGSPACE36"
+    }, {
+        "ZoneID": 579,
+        "AreaID": 595,
+        "AssetBundleName": "underground/ugspace37",
+        "MapName": "Dazzling Cave",
+        "WarpName": "UGSPACE37"
+    }, {
+        "ZoneID": 580,
+        "AreaID": 596,
+        "AssetBundleName": "underground/ugspace38",
+        "MapName": "Dazzling Cave",
+        "WarpName": "UGSPACE38"
+    }, {
+        "ZoneID": 581,
+        "AreaID": 597,
+        "AssetBundleName": "underground/ugspace39",
+        "MapName": "Icy Cave",
+        "WarpName": "UGSPACE39"
+    }, {
+        "ZoneID": 582,
+        "AreaID": 598,
+        "AssetBundleName": "underground/ugspace40",
+        "MapName": "Icy Cave",
+        "WarpName": "UGSPACE40"
+    }, {
+        "ZoneID": 583,
+        "AreaID": 599,
+        "AssetBundleName": "underground/ugspace36",
+        "MapName": "Icy Cave",
+        "WarpName": "UGSPACE41"
+    }, {
+        "ZoneID": 584,
+        "AreaID": 600,
+        "AssetBundleName": "underground/ugspace31",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE42"
+    }, {
+        "ZoneID": 585,
+        "AreaID": 601,
+        "AssetBundleName": "underground/ugspace01",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE43"
+    }, {
+        "ZoneID": 586,
+        "AreaID": 602,
+        "AssetBundleName": "underground/ugspace44",
+        "MapName": "Whiteout Cave",
+        "WarpName": "UGSPACE44"
+    }, {
+        "ZoneID": 587,
+        "AreaID": 603,
+        "AssetBundleName": "underground/ugspace45",
+        "MapName": "Whiteout Cave",
+        "WarpName": "UGSPACE45"
+    }, {
+        "ZoneID": 588,
+        "AreaID": 604,
+        "AssetBundleName": "underground/ugspace46",
+        "MapName": "Whiteout Cave",
+        "WarpName": "UGSPACE46"
+    }, {
+        "ZoneID": 589,
+        "AreaID": 605,
+        "AssetBundleName": "underground/ugspace47",
+        "MapName": "Whiteout Cave",
+        "WarpName": "UGSPACE47"
+    }, {
+        "ZoneID": 590,
+        "AreaID": 606,
+        "AssetBundleName": "underground/ugspace06",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE48"
+    }, {
+        "ZoneID": 591,
+        "AreaID": 607,
+        "AssetBundleName": "underground/ugspace49",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE49"
+    }, {
+        "ZoneID": 592,
+        "AreaID": 608,
+        "AssetBundleName": "underground/ugspace12",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE50"
+    }, {
+        "ZoneID": 593,
+        "AreaID": 609,
+        "AssetBundleName": "underground/ugspace51",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE51"
+    }, {
+        "ZoneID": 594,
+        "AreaID": 610,
+        "AssetBundleName": "underground/ugspace24",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE52"
+    }, {
+        "ZoneID": 595,
+        "AreaID": 611,
+        "AssetBundleName": "underground/ugspace10",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE53"
+    }, {
+        "ZoneID": 596,
+        "AreaID": 612,
+        "AssetBundleName": "underground/ugspace54",
+        "MapName": "Rocky Cave",
+        "WarpName": "UGSPACE54"
+    }, {
+        "ZoneID": 597,
+        "AreaID": 613,
+        "AssetBundleName": "underground/ugspace55",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE55"
+    }, {
+        "ZoneID": 598,
+        "AreaID": 614,
+        "AssetBundleName": "underground/ugspace32",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE56"
+    }, {
+        "ZoneID": 599,
+        "AreaID": 615,
+        "AssetBundleName": "underground/ugspace57",
+        "MapName": "Sandsear Cave",
+        "WarpName": "UGSPACE57"
+    }, {
+        "ZoneID": 600,
+        "AreaID": 616,
+        "AssetBundleName": "underground/ugspace58",
+        "MapName": "Volcanic Cave",
+        "WarpName": "UGSPACE58"
+    }, {
+        "ZoneID": 601,
+        "AreaID": 617,
+        "AssetBundleName": "underground/ugspace19",
+        "MapName": "Dazzling Cave",
+        "WarpName": "UGSPACE59"
+    }, {
+        "ZoneID": 602,
+        "AreaID": 618,
+        "AssetBundleName": "underground/ugspace60",
+        "MapName": "Volcanic Cave",
+        "WarpName": "UGSPACE60"
+    }, {
+        "ZoneID": 603,
+        "AreaID": 619,
+        "AssetBundleName": "underground/ugspace61",
+        "MapName": "Rocky Cave",
+        "WarpName": "UGSPACE61"
+    }, {
+        "ZoneID": 604,
+        "AreaID": 620,
+        "AssetBundleName": "underground/ugspace10",
+        "MapName": "Fountainspring Cave",
+        "WarpName": "UGSPACE62"
+    }, {
+        "ZoneID": 605,
+        "AreaID": 621,
+        "AssetBundleName": "underground/ugspace28",
+        "MapName": "Grassland Cave",
+        "WarpName": "UGSPACE63"
+    }, {
+        "ZoneID": 606,
+        "AreaID": 622,
+        "AssetBundleName": "underground/ugspace01",
+        "MapName": "Spacious Cave",
+        "WarpName": "UGSPACE64"
+    }, {
+        "ZoneID": 607,
+        "AreaID": 623,
+        "AssetBundleName": "underground/ugspace06",
+        "MapName": "Swampy Cave",
+        "WarpName": "UGSPACE65"
+    }, {
+        "ZoneID": 608,
+        "AreaID": 624,
+        "AssetBundleName": "underground/ugspace66",
+        "MapName": "Rocky Cave",
+        "WarpName": "UGSPACE66"
+    }, {
+        "ZoneID": 609,
+        "AreaID": 625,
+        "AssetBundleName": "underground/ugspace67",
+        "MapName": "Sandsear Cave",
+        "WarpName": "UGSPACE67"
+    }, {
+        "ZoneID": 610,
+        "AreaID": 626,
+        "AssetBundleName": "underground/ugspace58",
+        "MapName": "Volcanic Cave",
+        "WarpName": "UGSPACE68"
+    }, {
+        "ZoneID": 611,
+        "AreaID": 627,
+        "AssetBundleName": "underground/ugspacel01",
+        "MapName": "Still-Water Cavern",
+        "WarpName": "UGSPACEL01"
+    }, {
+        "ZoneID": 612,
+        "AreaID": 628,
+        "AssetBundleName": "underground/ugspacel02",
+        "MapName": "Big Bluff Cavern",
+        "WarpName": "UGSPACEL02"
+    }, {
+        "ZoneID": 613,
+        "AreaID": 629,
+        "AssetBundleName": "underground/ugspacel03",
+        "MapName": "Sunlit Cavern",
+        "WarpName": "UGSPACEL03"
+    }, {
+        "ZoneID": 614,
+        "AreaID": 630,
+        "AssetBundleName": "underground/ugspacel04",
+        "MapName": "Stargleam Cavern",
+        "WarpName": "UGSPACEL04"
+    }, {
+        "ZoneID": 615,
+        "AreaID": 631,
+        "AssetBundleName": "underground/ugspacel05",
+        "MapName": "Glacial Cavern",
+        "WarpName": "UGSPACEL05"
+    }, {
+        "ZoneID": 616,
+        "AreaID": 632,
+        "AssetBundleName": "underground/ugspacel06",
+        "MapName": "Bogsunk Cavern",
+        "WarpName": "UGSPACEL06"
+    }, {
+        "ZoneID": 617,
+        "AreaID": 633,
+        "AssetBundleName": "underground/ugspacel07",
+        "MapName": "Typhlo Cavern",
+        "WarpName": "UGSPACEL07"
+    }, {
+        "ZoneID": 618,
+        "AreaID": 634,
+        "AssetBundleName": "prefab_map/d05r0117",
+        "MapName": "Hall of Origin",
+        "WarpName": "D05R0117"
+    }, {
+        "ZoneID": 619,
+        "AreaID": 635,
+        "AssetBundleName": "prefab_map/d10r0901",
+        "MapName": "Distortion Room",
+        "WarpName": "D10R0901"
+    }, {
+        "ZoneID": 620,
+        "AreaID": 636,
+        "AssetBundleName": "underground/ugsecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGSECRETBASE01"
+    }, {
+        "ZoneID": 621,
+        "AreaID": 637,
+        "AssetBundleName": "underground/ugsecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGSECRETBASE02"
+    }, {
+        "ZoneID": 622,
+        "AreaID": 638,
+        "AssetBundleName": "underground/ugsecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGSECRETBASE03"
+    }, {
+        "ZoneID": 623,
+        "AreaID": 639,
+        "AssetBundleName": "underground/ugsecretbase04",
+        "MapName": "Secret Base",
+        "WarpName": "UGSECRETBASE04"
+    }, {
+        "ZoneID": 624,
+        "AreaID": 640,
+        "AssetBundleName": "prefab_map/d10r0902",
+        "MapName": "Distortion Room",
+        "WarpName": "D10R0902"
+    }, {
+        "ZoneID": 625,
+        "AreaID": 641,
+        "AssetBundleName": "prefab_map/sea01",
+        "MapName": "Ramanas Park",
+        "WarpName": "SEA01"
+    }, {
+        "ZoneID": 626,
+        "AreaID": 642,
+        "AssetBundleName": "prefab_map/c01r0209",
+        "MapName": "Jubilife City",
+        "WarpName": "C01R0209"
+    }, {
+        "ZoneID": 627,
+        "AreaID": 643,
+        "AssetBundleName": "underground/ugaasecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGAASECRETBASE01"
+    }, {
+        "ZoneID": 628,
+        "AreaID": 644,
+        "AssetBundleName": "underground/ugaasecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGAASECRETBASE02"
+    }, {
+        "ZoneID": 629,
+        "AreaID": 645,
+        "AssetBundleName": "underground/ugaasecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGAASECRETBASE03"
+    }, {
+        "ZoneID": 630,
+        "AreaID": 646,
+        "AssetBundleName": "underground/ugabsecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGABSECRETBASE01"
+    }, {
+        "ZoneID": 631,
+        "AreaID": 647,
+        "AssetBundleName": "underground/ugabsecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGABSECRETBASE02"
+    }, {
+        "ZoneID": 632,
+        "AreaID": 648,
+        "AssetBundleName": "underground/ugabsecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGABSECRETBASE03"
+    }, {
+        "ZoneID": 633,
+        "AreaID": 649,
+        "AssetBundleName": "underground/ugbasecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGBASECRETBASE01"
+    }, {
+        "ZoneID": 634,
+        "AreaID": 650,
+        "AssetBundleName": "underground/ugbasecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGBASECRETBASE02"
+    }, {
+        "ZoneID": 635,
+        "AreaID": 651,
+        "AssetBundleName": "underground/ugbasecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGBASECRETBASE03"
+    }, {
+        "ZoneID": 636,
+        "AreaID": 652,
+        "AssetBundleName": "underground/ugcasecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGCASECRETBASE01"
+    }, {
+        "ZoneID": 637,
+        "AreaID": 653,
+        "AssetBundleName": "underground/ugcasecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGCASECRETBASE02"
+    }, {
+        "ZoneID": 638,
+        "AreaID": 654,
+        "AssetBundleName": "underground/ugcasecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGCASECRETBASE03"
+    }, {
+        "ZoneID": 639,
+        "AreaID": 655,
+        "AssetBundleName": "underground/ugdasecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGDASECRETBASE01"
+    }, {
+        "ZoneID": 640,
+        "AreaID": 656,
+        "AssetBundleName": "underground/ugdasecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGDASECRETBASE02"
+    }, {
+        "ZoneID": 641,
+        "AreaID": 657,
+        "AssetBundleName": "underground/ugdasecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGDASECRETBASE03"
+    }, {
+        "ZoneID": 642,
+        "AreaID": 658,
+        "AssetBundleName": "underground/ugeasecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGEASECRETBASE01"
+    }, {
+        "ZoneID": 643,
+        "AreaID": 659,
+        "AssetBundleName": "underground/ugeasecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGEASECRETBASE02"
+    }, {
+        "ZoneID": 644,
+        "AreaID": 660,
+        "AssetBundleName": "underground/ugeasecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGEASECRETBASE03"
+    }, {
+        "ZoneID": 645,
+        "AreaID": 661,
+        "AssetBundleName": "underground/ugfasecretbase01",
+        "MapName": "Secret Base",
+        "WarpName": "UGFASECRETBASE01"
+    }, {
+        "ZoneID": 646,
+        "AreaID": 662,
+        "AssetBundleName": "underground/ugfasecretbase02",
+        "MapName": "Secret Base",
+        "WarpName": "UGFASECRETBASE02"
+    }, {
+        "ZoneID": 647,
+        "AreaID": 663,
+        "AssetBundleName": "underground/ugfasecretbase03",
+        "MapName": "Secret Base",
+        "WarpName": "UGFASECRETBASE03"
+    }, {
+        "ZoneID": 648,
+        "AreaID": 664,
+        "AssetBundleName": "prefab_map/d10r0202b",
+        "MapName": "Discovery Room",
+        "WarpName": "D10R0202B"
+    }, {
+        "ZoneID": 649,
+        "AreaID": 665,
+        "AssetBundleName": "prefab_map/d10r0301b",
+        "MapName": "Kanto Room",
+        "WarpName": "D10R0301B"
+    }, {
+        "ZoneID": 650,
+        "AreaID": 666,
+        "AssetBundleName": "prefab_map/d10r0302b",
+        "MapName": "Johto Room",
+        "WarpName": "D10R0302B"
+    }, {
+        "ZoneID": 651,
+        "AreaID": 667,
+        "AssetBundleName": "prefab_map/d10r0303b",
+        "MapName": "Soul Room",
+        "WarpName": "D10R0303B"
+    }, {
+        "ZoneID": 652,
+        "AreaID": 668,
+        "AssetBundleName": "prefab_map/d10r0401b",
+        "MapName": "Tectonic Room",
+        "WarpName": "D10R0401B"
+    }, {
+        "ZoneID": 653,
+        "AreaID": 669,
+        "AssetBundleName": "prefab_map/d10r0402b",
+        "MapName": "Oceanic Room",
+        "WarpName": "D10R0402B"
+    }, {
+        "ZoneID": 654,
+        "AreaID": 670,
+        "AssetBundleName": "prefab_map/d10r0403b",
+        "MapName": "Stratospheric Room",
+        "WarpName": "D10R0403B"
+    }, {
+        "ZoneID": 655,
+        "AreaID": 671,
+        "AssetBundleName": "prefab_map/d10r0501b",
+        "MapName": "Rainbow Room",
+        "WarpName": "D10R0501B"
+    }, {
+        "ZoneID": 656,
+        "AreaID": 672,
+        "AssetBundleName": "prefab_map/d10r0502b",
+        "MapName": "Squall Room",
+        "WarpName": "D10R0502B"
+    }, {
+        "ZoneID": 657,
+        "AreaID": 673,
+        "AssetBundleName": "prefab_map/d10r0601b",
+        "MapName": "Genome Room",
+        "WarpName": "D10R0601B"
+    }
+]

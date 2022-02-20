@@ -1,0 +1,407 @@
+{
+    "area": "D24",
+    "originX": 93,
+    "originY": 485,
+    "mapData": [
+        {
+            "name": "P_C_001_OutStair_03 (1)",
+            "x": 108,
+            "y": 503,
+            "width": 1,
+            "height": 3,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (2)",
+            "x": 109,
+            "y": 503,
+            "width": 1,
+            "height": 3,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (3)",
+            "x": 110,
+            "y": 503,
+            "width": 1,
+            "height": 3,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (4)",
+            "x": 115,
+            "y": 496,
+            "width": 3,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (5)",
+            "x": 115,
+            "y": 495,
+            "width": 3,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (6)",
+            "x": 115,
+            "y": 494,
+            "width": 3,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (7)",
+            "x": 115,
+            "y": 493,
+            "width": 3,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 (8)",
+            "x": 115,
+            "y": 492,
+            "width": 3,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_OutStair_03 2",
+            "x": 107,
+            "y": 503,
+            "width": 1,
+            "height": 3,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Pier_03 (1)",
+            "x": 101,
+            "y": 503,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Pier_03 (2)",
+            "x": 100,
+            "y": 503,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Pier_03 1",
+            "x": 102,
+            "y": 503,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Pier_04",
+            "x": 99,
+            "y": 503,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 (1) 1",
+            "x": 99,
+            "y": 501,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 (2) 1",
+            "x": 99,
+            "y": 505,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 (3) 1",
+            "x": 101,
+            "y": 507,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 (4) 1",
+            "x": 99,
+            "y": 509,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 (5)",
+            "x": 99,
+            "y": 512,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 (6)",
+            "x": 101,
+            "y": 511,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_01 4",
+            "x": 100,
+            "y": 499,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_04 (1)",
+            "x": 120,
+            "y": 497,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_04 (3)",
+            "x": 123,
+            "y": 488,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_04 2",
+            "x": 115,
+            "y": 503,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (1)",
+            "x": 105,
+            "y": 507,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (2)",
+            "x": 111,
+            "y": 510,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (3)",
+            "x": 110,
+            "y": 489,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (4)",
+            "x": 118,
+            "y": 491,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (5)",
+            "x": 118,
+            "y": 492,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (6)",
+            "x": 120,
+            "y": 490,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (7)",
+            "x": 120,
+            "y": 499,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 (8)",
+            "x": 123,
+            "y": 500,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Rock_05 2",
+            "x": 114,
+            "y": 505,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_Ship_01 1",
+            "x": 99,
+            "y": 505,
+            "width": 3,
+            "height": 7,
+            "meshes": []
+        },
+        {
+            "name": "P_D_008_Cliff_01",
+            "x": 93,
+            "y": 485,
+            "width": 37,
+            "height": 48,
+            "meshes": []
+        },
+        {
+            "name": "P_D_008_Ground_01",
+            "x": 93,
+            "y": 485,
+            "width": 54,
+            "height": 54,
+            "meshes": []
+        },
+        {
+            "name": "P_D_008_Pond_01",
+            "x": 93,
+            "y": 485,
+            "width": 37,
+            "height": 48,
+            "meshes": []
+        },
+        {
+            "name": "P_D_008_Step_01",
+            "x": 93,
+            "y": 485,
+            "width": 2,
+            "height": 5,
+            "meshes": []
+        },
+        {
+            "name": "P_D_008_Water_01",
+            "x": 93,
+            "y": 485,
+            "width": 54,
+            "height": 54,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_03",
+            "x": 111,
+            "y": 500,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_03 (1)",
+            "x": 114,
+            "y": 498,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_04",
+            "x": 113,
+            "y": 500,
+            "width": 2,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_04 (1)",
+            "x": 114,
+            "y": 499,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_04 (2)",
+            "x": 116,
+            "y": 497,
+            "width": 2,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_04 (3)",
+            "x": 117,
+            "y": 497,
+            "width": 2,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_04 (4)",
+            "x": 106,
+            "y": 504,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_SoilSeam_04 (5)",
+            "x": 106,
+            "y": 505,
+            "width": 1,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_T_002_House_02",
+            "x": 110,
+            "y": 500,
+            "width": 4,
+            "height": 3,
+            "meshes": []
+        },
+        {
+            "name": "P_T_001_DoorOuter_01",
+            "x": 94,
+            "y": 486,
+            "width": 1,
+            "height": 1,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_RoomInner_01",
+            "x": 93,
+            "y": 485,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        },
+        {
+            "name": "P_C_001_RoomInner_09",
+            "x": 93,
+            "y": 485,
+            "width": 2,
+            "height": 2,
+            "meshes": []
+        }
+    ]
+}

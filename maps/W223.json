@@ -1,0 +1,903 @@
+{
+    "area": "W223",
+    "originX": 832,
+    "originY": 608,
+    "mapData": [
+        {
+            "name": "P_C_001_Rock_01 (1) 3",
+            "x": 838,
+            "y": 620,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (2) 2",
+            "x": 840,
+            "y": 620,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (3) 2",
+            "x": 835,
+            "y": 618,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (4) 2",
+            "x": 841,
+            "y": 618,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (5) 2",
+            "x": 839,
+            "y": 617,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (6) 2",
+            "x": 837,
+            "y": 614,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (7) 2",
+            "x": 843,
+            "y": 616,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (8) 2",
+            "x": 844,
+            "y": 614,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (9) 2",
+            "x": 841,
+            "y": 611,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (10) 2",
+            "x": 849,
+            "y": 615,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (11) 2",
+            "x": 850,
+            "y": 617,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (12) 2",
+            "x": 852,
+            "y": 617,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (13) 2",
+            "x": 852,
+            "y": 619,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (14) 2",
+            "x": 854,
+            "y": 620,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (15) 2",
+            "x": 856,
+            "y": 615,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (16) 2",
+            "x": 853,
+            "y": 614,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (17) 2",
+            "x": 854,
+            "y": 610,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (18) 2",
+            "x": 860,
+            "y": 612,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (19) 2",
+            "x": 858,
+            "y": 618,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (20) 2",
+            "x": 861,
+            "y": 622,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (21) 2",
+            "x": 856,
+            "y": 626,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (22) 2",
+            "x": 858,
+            "y": 627,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (23) 2",
+            "x": 860,
+            "y": 627,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (24) 2",
+            "x": 861,
+            "y": 629,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (25) 2",
+            "x": 857,
+            "y": 638,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (26) 2",
+            "x": 856,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (27) 2",
+            "x": 857,
+            "y": 642,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (28) 2",
+            "x": 859,
+            "y": 643,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (29) 2",
+            "x": 861,
+            "y": 644,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (30) 2",
+            "x": 862,
+            "y": 646,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (31) 2",
+            "x": 861,
+            "y": 648,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (32) 2",
+            "x": 861,
+            "y": 650,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (33) 2",
+            "x": 857,
+            "y": 649,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (34) 2",
+            "x": 855,
+            "y": 649,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (35) 2",
+            "x": 847,
+            "y": 648,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (36) 1",
+            "x": 853,
+            "y": 658,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (37) 2",
+            "x": 853,
+            "y": 656,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (38) 2",
+            "x": 853,
+            "y": 654,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (39) 2",
+            "x": 857,
+            "y": 660,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (40) 2",
+            "x": 855,
+            "y": 660,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (41) 1",
+            "x": 862,
+            "y": 652,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (42) 1",
+            "x": 862,
+            "y": 654,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (43) 1",
+            "x": 862,
+            "y": 656,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (44) 1",
+            "x": 861,
+            "y": 658,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (45) 1",
+            "x": 859,
+            "y": 658,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (46)",
+            "x": 843,
+            "y": 660,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (47)",
+            "x": 857,
+            "y": 665,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (48)",
+            "x": 862,
+            "y": 675,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (49)",
+            "x": 861,
+            "y": 677,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (50)",
+            "x": 862,
+            "y": 679,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (51)",
+            "x": 862,
+            "y": 681,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (52)",
+            "x": 862,
+            "y": 683,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (53)",
+            "x": 861,
+            "y": 685,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (54)",
+            "x": 861,
+            "y": 687,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (55)",
+            "x": 861,
+            "y": 691,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (56)",
+            "x": 856,
+            "y": 692,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (57)",
+            "x": 862,
+            "y": 696,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (58)",
+            "x": 861,
+            "y": 703,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (59)",
+            "x": 860,
+            "y": 710,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (60)",
+            "x": 856,
+            "y": 709,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (61)",
+            "x": 854,
+            "y": 711,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (62)",
+            "x": 859,
+            "y": 712,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (63)",
+            "x": 858,
+            "y": 720,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (64)",
+            "x": 858,
+            "y": 722,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (65)",
+            "x": 859,
+            "y": 724,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (66)",
+            "x": 860,
+            "y": 726,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (67)",
+            "x": 862,
+            "y": 728,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (68)",
+            "x": 862,
+            "y": 730,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (69)",
+            "x": 862,
+            "y": 732,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (70)",
+            "x": 862,
+            "y": 734,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (71)",
+            "x": 862,
+            "y": 736,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (72)",
+            "x": 846,
+            "y": 736,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (73)",
+            "x": 844,
+            "y": 736,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (74)",
+            "x": 842,
+            "y": 734,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (75)",
+            "x": 840,
+            "y": 732,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (76)",
+            "x": 840,
+            "y": 730,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (77)",
+            "x": 840,
+            "y": 728,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (78)",
+            "x": 840,
+            "y": 726,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (79)",
+            "x": 840,
+            "y": 720,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (80)",
+            "x": 841,
+            "y": 718,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (81)",
+            "x": 840,
+            "y": 716,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (82)",
+            "x": 839,
+            "y": 714,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (83)",
+            "x": 839,
+            "y": 709,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (84)",
+            "x": 835,
+            "y": 708,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (85)",
+            "x": 837,
+            "y": 705,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (86)",
+            "x": 844,
+            "y": 704,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (87)",
+            "x": 842,
+            "y": 701,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (88)",
+            "x": 840,
+            "y": 699,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (89)",
+            "x": 838,
+            "y": 700,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (90)",
+            "x": 836,
+            "y": 698,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (91)",
+            "x": 833,
+            "y": 700,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (92)",
+            "x": 832,
+            "y": 698,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (93)",
+            "x": 832,
+            "y": 696,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (94)",
+            "x": 832,
+            "y": 694,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (95)",
+            "x": 833,
+            "y": 683,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (96)",
+            "x": 834,
+            "y": 681,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (97)",
+            "x": 836,
+            "y": 679,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (98)",
+            "x": 838,
+            "y": 676,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (99)",
+            "x": 840,
+            "y": 678,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (100)",
+            "x": 842,
+            "y": 679,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (101)",
+            "x": 845,
+            "y": 681,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (102)",
+            "x": 834,
+            "y": 674,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (103)",
+            "x": 832,
+            "y": 672,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (104)",
+            "x": 834,
+            "y": 670,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (105)",
+            "x": 832,
+            "y": 669,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (106)",
+            "x": 832,
+            "y": 667,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (107)",
+            "x": 833,
+            "y": 665,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (108)",
+            "x": 837,
+            "y": 662,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (109)",
+            "x": 832,
+            "y": 658,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (110)",
+            "x": 832,
+            "y": 656,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (111)",
+            "x": 834,
+            "y": 654,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (112)",
+            "x": 834,
+            "y": 652,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (113)",
+            "x": 834,
+            "y": 650,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (114)",
+            "x": 833,
+            "y": 642,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (115)",
+            "x": 834,
+            "y": 640,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (116)",
+            "x": 833,
+            "y": 638,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (117)",
+            "x": 835,
+            "y": 632,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (118)",
+            "x": 836,
+            "y": 630,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (119)",
+            "x": 838,
+            "y": 628,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 (120)",
+            "x": 834,
+            "y": 627,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_01 6",
+            "x": 839,
+            "y": 622,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 (1) 2",
+            "x": 843,
+            "y": 612,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 (2) 2",
+            "x": 849,
+            "y": 613,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 (3) 2",
+            "x": 850,
+            "y": 611,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 (4) 1",
+            "x": 852,
+            "y": 610,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_C_001_Rock_04 4",
+            "x": 839,
+            "y": 610,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "name": "P_W_223_Cliff_01",
+            "x": 832,
+            "y": 608,
+            "width": 34,
+            "height": 111
+        },
+        {
+            "name": "P_W_223_Ground_01",
+            "x": 832,
+            "y": 608,
+            "width": 88,
+            "height": 128
+        }
+    ]
+}
