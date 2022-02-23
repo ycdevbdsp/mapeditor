@@ -4,7 +4,8 @@ import os
 import re
 from mapeditor import *
 import json
-from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog, QLabel
+import placedataheader
+from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog, QMessageBox
 from PyQt5.QtGui import QPainter, QPen, QBrush, QColor
 from PyQt5.QtCore import Qt
 import clicklabel
@@ -40,8 +41,12 @@ class MapEditor(QMainWindow):
     LastMouseY = 0
     MapData = None
     MapPlaceData = None
+    InitializeLocalPlaceData = False
     LocalPlaceData = {}
     SelectedSquare = None
+    ThisZoneID = 0
+    NewPlaceData = None
+    OutputPlaceData = ""
 
 
     def loadFiles(self):
@@ -93,10 +98,22 @@ class MapEditor(QMainWindow):
         self.ui.frame.clicked.connect(self.mousePressed)
         self.ui.actionLoad_Map.triggered.connect(self.loadMap)
         self.ui.actionLoad_Map_Data.triggered.connect(self.loadMapPlaceData)
+        self.ui.actionSave.triggered.connect(self.saveChanges)
+
+        self.ui.objectPositionX.valueChanged.connect(self.positionXChanged)
+        self.ui.objectPositionY.valueChanged.connect(self.positionYChanged)
+        self.ui.objectDirection.currentIndexChanged.connect(self.directionChanged)
+        self.ui.objectID.textChanged.connect(self.idChanged)
 
         #PlaceData information setup. Default to hiding the information specific for trainers.
 
         self.ui.trainerInfoFrame.setEnabled(False)
+        
+        self.LocalPlaceData = {}
+
+    def repaintMap(self):
+        self.paintMap()
+        self.ui.frame.repaint()
 
     def paintMap(self):
         if self.MapData is None:
@@ -142,7 +159,6 @@ class MapEditor(QMainWindow):
     
         if self.MapPlaceData is not None:
             #Drop the relevant PlaceData onto the map.  
-            self.LocalPlaceData = {}
             placeData = self.MapPlaceData
             qp.setBrush(QBrush(QColor(255,165,0), Qt.SolidPattern))
             index = 0
@@ -161,9 +177,10 @@ class MapEditor(QMainWindow):
                             floor((pos['x'] - self.OriginX) * self.MapSquareSize + (self.MapSquareSize/2)),
                             floor((pos['y'] - self.OriginY) * self.MapSquareSize + (self.MapSquareSize)),
                             'T')
-                    
-                    self.LocalPlaceData[str(pos['x']) + str(pos['y'])] ={"index": index, "data": pd}
+                    if self.InitializeLocalPlaceData is True:
+                        self.LocalPlaceData[str(pos['x']) + str(pos['y'])] = {"index": index, "data": pd}
                 index += 1
+            self.InitializeLocalPlaceData = False
         
         #draw the selected square if there is one
 
@@ -233,11 +250,39 @@ class MapEditor(QMainWindow):
     def loadMapPlaceData(self):
         file = QFileDialog.getOpenFileName(self, 'Open map data file', './mapdata')
 
+        self.InitializeLocalPlaceData = True
+
         if file[0]:
             with open(file[0]) as infile:
+                self.OutputPlaceData = os.path.basename(file[0])
                 self.MapPlaceData = json.load(infile)
+                self.ThisZoneID = self.MapPlaceData['Data'][0]['zoneID']
                 self.paintMap()
                 
+    def saveChanges(self):
+        #Run through our local place data and update any changes made to the original placedata.
+        #New changes are automatically added to the original placedata
+
+        try:
+            if self.OutputPlaceData == "":
+                print("No place data loaded!")
+                return
+            for pd in self.LocalPlaceData:
+                index = self.LocalPlaceData[pd]['index']
+                self.MapPlaceData['Data'][index] = self.LocalPlaceData[pd]['data']
+
+            if os.path.exists("output") == False:
+                os.makedirs("output")
+
+            with open("output\\new_" + self.OutputPlaceData, 'w+', encoding="utf-8") as outfile:
+                json.dump(self.MapPlaceData, outfile)
+        except Exception as e:
+            msg = QMessageBox()
+            msg.setIcon(QMessageBox.Critical)
+            msg.setText("An error occurred trying to save your changes:\n" + str(e))
+            msg.show()
+        return
+
     def mouseMoveEvent(self, event):
         self.paintMap()
         x = floor(event.x() / self.MapSquareSize)
@@ -271,6 +316,8 @@ class MapEditor(QMainWindow):
         self.ui.frame.repaint()
         
     def mousePressed(self, event):
+        self.SelectedSquare = None
+
         x = floor(event.x() / self.MapSquareSize)
         y = floor(event.y() / self.MapSquareSize)
         
@@ -281,11 +328,7 @@ class MapEditor(QMainWindow):
         self.LastMouseX = x
         self.LastMouseY = y
         
-        #allow deselecting the square
-        if self.SelectedSquare != None and x == self.SelectedSquare['x'] and y == self.SelectedSquare['y']:
-            self.SelectedSquare = None
-        else:
-            self.SelectedSquare = {'x': x, 'y': y}
+        self.NewPlaceData = None
         
         pdIndex = str(x + self.OriginX) + str(y + self.OriginY)
         #Update the object info with the object we clicked, or clear it if there's nothing there.
@@ -322,10 +365,116 @@ class MapEditor(QMainWindow):
             self.ui.trainerInfoFrame.setEnabled(False)
             self.ui.trainerID.setValue(0)
 
-        self.paintMap()
-        self.ui.frame.repaint()
+        # #allow deselecting the square
+        # if self.SelectedSquare != None and x == self.SelectedSquare['x'] and y == self.SelectedSquare['y']:
+        #     self.SelectedSquare = None
+        # else:
+        self.SelectedSquare = {'x': x, 'y': y}
 
+        self.repaintMap()
 
+    def positionXChanged(self):
+        #If we haven't selected a square, just return.
+        
+        if self.SelectedSquare is None:
+            return
+        newX = self.ui.objectPositionX.value()
+
+        pdIndex = str(self.SelectedSquare['x'] + self.OriginX) + str(self.SelectedSquare['y'] + self.OriginY)
+        
+        # if this pdIndex already exists in our local placedata, grab the true index from it and update
+        # the corresponding entry in the true PlaceData. Otherwise, create a new entry for the true
+        # PlaceData
+
+        if pdIndex in self.LocalPlaceData:
+            trueIndex = self.LocalPlaceData[pdIndex]['index']
+            self.MapPlaceData['Data'][trueIndex]['Position']['x'] = newX
+        else:
+            if self.NewPlaceData is None:
+                self.NewPlaceData = placedataheader.placedataBlank
+            self.NewPlaceData['Position']['x'] = newX
+
+        #Now update the LocalPlaceData since the location has changed. We can use whatever the current
+        #value of the Y spinbox is. Then delete the old entry.
+
+        self.LocalPlaceData[str(newX) + str(self.ui.objectPositionY.value())] = self.LocalPlaceData[pdIndex]
+        del self.LocalPlaceData[pdIndex]
+        self.SelectedSquare['x'] = newX - self.OriginX
+        self.repaintMap()
+        
+
+    
+    def positionYChanged(self):
+        #If we haven't selected a square, just return
+
+        if self.SelectedSquare is None:
+            return
+        
+        newY = self.ui.objectPositionY.value()
+
+        pdIndex = str(self.SelectedSquare['x'] + self.OriginX) + str(self.SelectedSquare['y'] + self.OriginY)
+
+        # if this pdIndex already exists in our local placedata, grab the true index from it and update
+        # the corresponding entry in the true PlaceData. Otherwise, create a new entry for the true
+        # PlaceData
+
+        if pdIndex in self.LocalPlaceData:
+            trueIndex = self.LocalPlaceData[pdIndex]['index']
+            self.MapPlaceData['Data'][trueIndex]['Position']['y'] = self.ui.objectPositionY.value()
+        else:
+            if self.NewPlaceData is None:
+                self.NewPlaceData = placedataheader.placedataBlank
+            self.NewPlaceData['Position']['y'] = self.ui.objectPositionY.value()
+
+        #Now update the LocalPlaceData since the location has changed. We can use whatever the current
+        #value of the X spinbox is. Then delete the old entry.
+
+        self.LocalPlaceData[str(self.ui.objectPositionX.value()) + str(newY)] = self.LocalPlaceData[pdIndex]
+        del self.LocalPlaceData[pdIndex]
+        self.SelectedSquare['y'] = newY - self.OriginY
+        self.repaintMap()
+
+    def directionChanged(self, i):
+        if self.SelectedSquare is None:
+            return
+
+        direction = self.ui.objectDirection.currentText()
+        rotation = 0
+
+        if direction == "Down":
+            rotation = 0
+        elif direction == "Left":
+            rotation = 90
+        elif direction == "Up":
+            rotation = 180
+        else:
+            rotation = 270
+
+        pdIndex = str(self.SelectedSquare['x'] + self.OriginX) + str(self.SelectedSquare['y'] + self.OriginY)
+
+        if pdIndex in self.LocalPlaceData:
+            trueIndex = self.LocalPlaceData[pdIndex]['index']
+            self.MapPlaceData['Data'][trueIndex]['Rotation'] = rotation
+        else:
+            if self.NewPlaceData is None:
+                self.NewPlaceData = placedataheader.placedataBlank
+            self.NewPlaceData['Rotation'] = rotation
+        
+    def idChanged(self):
+        if self.SelectedSquare is None:
+            return
+
+        id = self.ui.objectID.text()
+        pdIndex = str(self.SelectedSquare['x'] + self.OriginX) + str(self.SelectedSquare['y'] + self.OriginY)
+
+        if pdIndex in self.LocalPlaceData:
+            trueIndex = self.LocalPlaceData[pdIndex]['index']
+            self.MapPlaceData['Data'][trueIndex]['ID'] = id
+        else:
+            if self.NewPlaceData is None:
+                self.NewPlaceData = placedataheader.placedataBlank
+            self.NewPlaceData['ID'] = id
+        
 if __name__=="__main__":
     app = QApplication(sys.argv)
     w = MapEditor()
